@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "8e4146cde18f50f8617dfcaf9018b10fe12f81ce3f0f1661a73ec0be5cab3694"
+
+[[files]]
+file = "config/polydex.json"
+hash = "2a9fa4c5b60e5918349ef56c678b27f1349241c4e4ad14f9f449eaa14af4eedc"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "1baff6398559ffa2078b00e361339705051ebbe63a4fc3f94f550429033a50b2"
+
+[[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
@@ -51,11 +63,6 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "11fa1d6e3beaa11b98f03eb122a37cbc906ccabb8998e54c8233d783f5b8ad9e"
-metafile = true
 
 [[files]]
 file = "mods/actually-harvest.pw.toml"
@@ -129,17 +136,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a31cc2b635c35b255f86b0136ceaea3cee0cef3f97da98edbac56dec26914e18"
-metafile = true
-
-[[files]]
-file = "mods/canary-safety.pw.toml"
-hash = "b77295058408fec118106d8464ab95845a0f87779a95da7a35be557e9981f49c"
+hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
+hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
@@ -299,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-beekeeper-hut-fabric.pw.toml"
-hash = "94bb3f738689fe7718b9d3d136959cda4dd5b945956c3225c4bdc1150011b763"
+hash = "8de10933875f0aa1a5ac99fd8da0e51e1d3c0605775df9abd8a838e7ae7e3938"
 metafile = true
 
 [[files]]
@@ -348,6 +350,11 @@ hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
@@ -375,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "605e4295a1ac4a1c4b3345370e596d4e8ee40dd22ab5ebf699f594dd247e7b94"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
@@ -418,6 +430,11 @@ hash = "4ac7c700526984d54f4b449494f027f4e9ec94d7104d660425f2ee047c580db2"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "f5b05c0a5a9f9feee4954a743d9668db9bf793199ed4333b2a50c92589a206de"
 metafile = true
@@ -429,7 +446,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "febbbc8d50a30c9b978f4d3f3bee2fda0f75b8df34eab1f8148284df327cfa60"
+hash = "90ef020e1c91c39b865b31c54e777aadff8de423bd1fe31db0df3f2c611acd20"
 metafile = true
 
 [[files]]
@@ -498,11 +515,6 @@ hash = "561c73e663a408a07be5939182db6a72ff30cffd6b7d6704eb58b68e692b19ba"
 metafile = true
 
 [[files]]
-file = "mods/repo-heads.pw.toml"
-hash = "9a3bfde1a02992720bade1262be3ea3bbf88a7872a71198c014d6b8da555eef7"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
@@ -519,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "48936b65e0198c10d1cf5ec2be68e900729e38d3d98d7393de12010638de71b5"
+hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]
@@ -560,6 +572,11 @@ metafile = true
 [[files]]
 file = "mods/softer-pastels.pw.toml"
 hash = "6233a79d1e79849e0a7c1e8d6a8f062188b928a8df163a041502d980dca1ca3f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
 
 [[files]]
@@ -659,20 +676,20 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-end-island.pw.toml"
-hash = "a9f7ce3ef90cd500e451ff6534d42f0532150d5f207c974468295fbe8c7b5a47"
+hash = "828821c78792f0e594d3a0021780256d2a54cf4106f35a230325f91e8a8d65c3"
 metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "a33c822c6525c8b708475161e263cb18883332383a6b25e2b5915623f0e5b85c"
+hash = "c2c1d617091130e57b25c1e5fb95d757465432c71e38302eafa1a1d89498d8ce"
 metafile = true
 
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
-hash = "f0779c5ec85b19542d39dd3df11c0fd521c465f5da2bafc9d1a6250a30719cc6"
+hash = "5a75171138477185dc260864c89b78fbd18338256c7f8cf7d7dfb780ca80598d"
 metafile = true
 
 [[files]]
 file = "mods/yungs-extras.pw.toml"
-hash = "b7152fd543e5efd1233dfc49ddb690332d98bdb986b4b7a289565fbf3af6cbe5"
+hash = "745fd5cd0b5ddaca6b0fba915428c63a47d32ee9e281c3661b41aa34dd8b653b"
 metafile = true
