@@ -1,0 +1,9 @@
+name = "SSEDS"
+filename = "sseds-0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/FoundationGames/SSEDS/releases/download/0.2/sseds-0.2.jar"
+
+hash-format = "sha256"
+hash = "E5CCF8DE477F93F557434ABEE0C0112240E2B173975136CE7A0FAEA0D3CCA48E"

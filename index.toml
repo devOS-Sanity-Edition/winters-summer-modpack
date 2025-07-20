@@ -140,6 +140,11 @@ hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
 metafile = true
 
 [[files]]
+file = "mods/canary-safety.pw.toml"
+hash = "b77295058408fec118106d8464ab95845a0f87779a95da7a35be557e9981f49c"
+metafile = true
+
+[[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
@@ -582,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/splinecart.pw.toml"
 hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
+metafile = true
+
+[[files]]
+file = "mods/sseds.pw.toml"
+hash = "6b82fc2fdaa7b6762f27088d2c2b3ec2167c4054bc376475907359cc6a86919d"
 metafile = true
 
 [[files]]
