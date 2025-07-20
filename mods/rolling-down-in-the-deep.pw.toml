@@ -1,0 +1,13 @@
+name = "Rolling Down in the Deep"
+filename = "rolling-down-in-the-deep-0.2.0+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zQqsEeqy/versions/qA6zmhQX/rolling-down-in-the-deep-0.2.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "0531d3ab92387ef9621bb4d4ab7894074edd71f601e0299a6ceebd048a637eb2bf568ca481a829a3bf1607c4342a5a3af832e9f27082d0df7844b7dc99504651"
+
+[update]
+[update.modrinth]
+mod-id = "zQqsEeqy"
+version = "qA6zmhQX"

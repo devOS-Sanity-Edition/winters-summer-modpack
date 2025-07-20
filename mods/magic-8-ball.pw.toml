@@ -1,0 +1,13 @@
+name = "Magic 8 Ball"
+filename = "magic_8_ball-1.0.0+build.12-mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUmV7trt/versions/9MUcF1SV/magic_8_ball-1.0.0%2Bbuild.12-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "3fe32915eaea857fcfa494a996d127613dd7763d712c10328cad756adee8cf91668b39b69d8a4253b991469b481d32766fab3d8f73a8dd50b302a9d4543d5053"
+
+[update]
+[update.modrinth]
+mod-id = "eUmV7trt"
+version = "9MUcF1SV"

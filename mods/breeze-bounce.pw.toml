@@ -1,0 +1,13 @@
+name = "Breeze Bounce"
+filename = "breezebounce-fabric-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBoXEK2I/versions/55qYcDwR/breezebounce-fabric-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "c54b419cdc635f52785455ae183e3351f0a3b7442346cc7e4e7aa8ab99fd4e5ce192700c9e32113b34f321f80f8843742905d71ad5f3a8108085ff5c58785a63"
+
+[update]
+[update.modrinth]
+mod-id = "vBoXEK2I"
+version = "55qYcDwR"

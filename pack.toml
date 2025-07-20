@@ -1,0 +1,13 @@
+name = "Winter's Summer"
+author = "asojidev"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0a3fe4cc24f17558d43eed68ba9548d4f2aad8de77ed528ebf80fc752000ae81"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.1"

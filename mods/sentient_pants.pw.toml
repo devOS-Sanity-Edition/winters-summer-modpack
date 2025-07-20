@@ -1,0 +1,13 @@
+name = "Sentient Pants"
+filename = "sentient_pants-1.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5I3BEJRO/versions/8231gOPb/sentient_pants-1.0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "14349a97e9bd6a7fcd69f869a0d0b1582d7a2318ccce958b742d630d34a4587a3a550028efe55a3d141c6d2892a84a33bf9f991a4e3ed9c826d6215c1968d51f"
+
+[update]
+[update.modrinth]
+mod-id = "5I3BEJRO"
+version = "8231gOPb"
