@@ -459,8 +459,18 @@ hash = "0bbd768ffd08ef2110010ffe20ff71b0d23d67c16ff5fc0159c4ad6e6b02326a"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "7fc969e77edc3b0b9946b42070fd858349a74555f0cf9648907241af8a3a2d25"
+metafile = true
+
+[[files]]
 file = "mods/moving-elevators.pw.toml"
 hash = "25d50d7ca185264b5b41d9b003c6cf6154488cf24fde554eebe4c8a4088df78b"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "7c7c332502a1e7aefedab9ba9b7db02e5de5e45b9215b2dc878cfa61eb226f48"
 metafile = true
 
 [[files]]
