@@ -409,6 +409,11 @@ hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
+metafile = true
+
+[[files]]
 file = "mods/kawaii-dishes.pw.toml"
 hash = "bfc7d781c166b5c3fe7d25df8043175700df19b9ac7a391722ea6ebfcbf30d3a"
 metafile = true
@@ -701,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
 hash = "141bc11a38f89ee903cab997fb50ec7946a3636dfb9824d68979092d4de412de"
+metafile = true
+
+[[files]]
+file = "mods/sort-it-out.pw.toml"
+hash = "26d393b9a598faf49f2a526c3a3eeadd197e4a3a0a263d965501593b080cec41"
 metafile = true
 
 [[files]]
