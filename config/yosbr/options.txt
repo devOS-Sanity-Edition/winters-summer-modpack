@@ -1,6 +1,6 @@
 simulationDistance:12
 onboardAccessibility:true
-resourcePacks:["vanilla","fabric","$polymer-resources","moonlight:mods_dynamic_assets","natures_spirit:plank_consistency","natures_spirit:emissive_ores_compatibility","minecraft:supporteatinganimation"]
+resourcePacks:["vanilla","fabric","$polymer-resources","moonlight:mods_dynamic_assets","natures_spirit:plank_consistency","minecraft:supporteatinganimation"]
 key_ping-wheel.key.name-labels:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.sort_it_out.sort:key.keyboard.unknown

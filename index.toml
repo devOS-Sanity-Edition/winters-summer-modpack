@@ -78,7 +78,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1fec427ad96af9d26aa5aaff398d0b2f14eb40cfcb5b52f9814d9feae6e6de1e"
+hash = "bee19c690f9ef907eddc01921e8a46e09995796440dd28a93de37387ba6cb11d"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
