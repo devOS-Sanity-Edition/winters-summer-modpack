@@ -339,6 +339,11 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
+file = "mods/familiar-magic.pw.toml"
+hash = "6b14ab2c165e1d13bc452e555351be4ee6549aa79d7f7f5c75ba239f2d9a11d6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "f153bb989055178aacb8d919283a32697f7342ff2e244b883867e47fe94b28d6"
 metafile = true
