@@ -1,0 +1,179 @@
+[flavor_groups.appleskin]
+name = "Apple Skin"
+description = "Shows saturation/exhaustion values on the hunger bar, and potential health restored while holding food on the health bar."
+side = "client"
+[[flavor_groups.appleskin.choices]]
+id = "appleskin"
+name = "Yes"
+[[flavor_groups.appleskin.choices]]
+id = "appleskinno"
+name = "No"
+
+[metafile.appleskin]
+flavors = "appleskin"
+
+
+[flavor_groups.ui_fix]
+name = "UI Fixes"
+description = "Fixes some weirdness with Minecraft's UI (Centered Crosshair, Raised)."
+side = "client"
+[[flavor_groups.ui_fix.choices]]
+id = "ui_fix"
+name = "Yes"
+[[flavor_groups.ui_fix.choices]]
+id = "ui_fixno"
+name = "No"
+
+[metafile.centered-crosshair]
+flavors = "ui_fix"
+[metafile.raised]
+flavors = "ui_fix"
+
+
+[flavor_groups.animation]
+name = "Animation Mods"
+description = "Add a little extra liveliness to your gameplay (Falling Leaves, Not Enough Animations)."
+side = "client"
+[[flavor_groups.animation.choices]]
+id = "animation"
+name = "Yes"
+[[flavor_groups.animation.choices]]
+id = "animationno"
+name = "No"
+
+[metafile.fallingleaves]
+flavors = "animation"
+[metafile.not-enough-animations]
+flavors = "animation"
+
+
+[flavor_groups.roll]
+name = "Roll Mod"
+description = "Camera tweaks for elytra and swimming."
+side = "client"
+[[flavor_groups.roll.choices]]
+id = "rollnone"
+name = "None"
+[[flavor_groups.roll.choices]]
+id = "do-a-barrel-roll"
+name = "Do a Barrel Roll"
+description = "Changes elytra flight to be more fun and semi-realistic. It achieves this by redesigning movement with a completely unlocked camera orientation in mind, allowing for full pitch, yaw and roll control in flight. [WARNING FOR PEOPLE WHO GET MOTION SICKNESS EASILY]"
+[[flavor_groups.roll.choices]]
+id = "rolling-down-in-the-deep"
+name = "Rolling Down in the Deep / Both"
+description = "An addon to Do A Barrel Roll to extend its features to swimming and diving."
+
+[metafile.do-a-barrel-roll]
+flavors = ["do-a-barrel-roll", "rolling-down-in-the-deep"]
+[metafile.rolling-down-in-the-deep]
+flavors = "rolling-down-in-the-deep"
+
+
+[flavor_groups.ui]
+name = "UI Mod"
+description = "Extra flavor to your UI."
+side = "client"
+[[flavor_groups.ui.choices]]
+id = "uinone"
+name = "None"
+[[flavor_groups.ui.choices]]
+id = "starhud"
+name = "StarHUD"
+description = "Display fancy HUDs in your game."
+[[flavor_groups.ui.choices]]
+id = "travelers-titles"
+name = "Traveler's Titles"
+description = "RPG-like titles when entering biomes & dimensions."
+[[flavor_groups.ui.choices]]
+id = "all_ui"
+name = "Both"
+
+[metafile.starhud]
+flavors = ["starhud", "all_ui"]
+[metafile.travelers-titles]
+flavors = ["travelers-titles", "all_ui"]
+
+
+[flavor_groups.sodium_tweaks]
+name = "Sodium Tweaks"
+description = "Tweaks what Sodium provides and its screen (Sodium Extra, Reese's Sodium Options)."
+side = "client"
+[[flavor_groups.sodium_tweaks.choices]]
+id = "sodium_tweaks"
+name = "Yes"
+[[flavor_groups.sodium_tweaks.choices]]
+id = "sodium_tweaksno"
+name = "No"
+
+[metafile.sodium-extra]
+flavors = "sodium_tweaks"
+[metafile.reeses-sodium-options]
+flavors = "sodium_tweaks"
+
+
+[flavor_groups.jade]
+name = "Jade"
+description = "Info about what you're looking at in the top middleof of your screen."
+side = "client"
+[[flavor_groups.jade.choices]]
+id = "jade"
+name = "Yes"
+[[flavor_groups.jade.choices]]
+id = "jadeno"
+name = "No"
+
+[metafile.jade]
+flavors = "jade"
+
+
+[flavor_groups.gen_z]
+name = "Ok Zoomer"
+description = "Zoom like you need glasses."
+side = "client"
+[[flavor_groups.gen_z.choices]]
+id = "gen_z"
+name = "Yes"
+[[flavor_groups.gen_z.choices]]
+id = "gen_zno"
+name = "No"
+
+[metafile.ok-zoomer]
+flavors = "gen_z"
+
+
+[flavor_groups.sound_physics]
+name = "Sound Physics"
+description = "Make your sounds a lot more immersive."
+side = "client"
+[[flavor_groups.sound_physics.choices]]
+id = "sound_physicsno"
+name = "No"
+[[flavor_groups.sound_physics.choices]]
+id = "sound_physics"
+name = "Yes"
+
+[metafile.sound-physics-remastered]
+flavors = "sound_physics"
+[metafile.pv-addon-soundphysics]
+flavors = "sound_physics"
+
+
+[flavor_groups.controller]
+name = "Controller Mod"
+description = "Have the option to play with a controller."
+side = "client"
+[[flavor_groups.controller.choices]]
+id = "controllernone"
+name = "None"
+[[flavor_groups.controller.choices]]
+id = "controlify"
+name = "Controlify"
+[[flavor_groups.controller.choices]]
+id = "midnightcontrols"
+name = "MidnightControls"
+description = "Controlify is preferred. Only use if it doesn't work for you."
+
+[metafile.controlify]
+flavors = "controlify"
+[metafile.midnightcontrols]
+flavors = "midnightcontrols"

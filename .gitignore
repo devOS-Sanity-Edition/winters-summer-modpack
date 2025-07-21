@@ -1,3 +1,5 @@
+/.idea/
+
 # Exclude exported CurseForge zip files
 *.zip
 

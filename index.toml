@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "db6794ade20e325159075e4c5d2fbf445c359e73e2ca83a44b64e8ae44ee74d6"
-
-[[files]]
-file = ".idea/material_theme_project_new.xml"
-hash = "6132c03dbfe191dde9951e2fefe9755751bdc3423d530e3d1b1122a754e83ce9"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "ff6a59e8b55b5dab98457c903ab57918eac0286d17d4206a7a39f0cb1d9a8747"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "0994bb929c8783e999e7d20457c77f86447334b1ad6f3620e63085e7a12d734e"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "6323e12648862a0a96fc0d7877672817d6cd91e2c2a3c3d78f1090db23c6e88e"
-
-[[files]]
-file = ".idea/winters-summer-modpack.iml"
-hash = "0ff94b49c61885dd797e3da61dc3444c7ab48f317373ca42681910f1f8413752"
-
-[[files]]
 file = "LICENSE"
 hash = "8e4146cde18f50f8617dfcaf9018b10fe12f81ce3f0f1661a73ec0be5cab3694"
 
@@ -237,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "80bda31f8e1287a84403d758a21980758819ac7f067b29afa8283b5fcd5ee57a"
 metafile = true
 
 [[files]]
@@ -502,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/magic-8-ball.pw.toml"
 hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "1c142b3c08504ed1606f340a576a7f1dda6c0d550ac9cac197ef499e9d5354af"
 metafile = true
 
 [[files]]
@@ -953,3 +939,7 @@ metafile = true
 file = "resourcepacks/moon_face.pw.toml"
 hash = "7a6b3147bca24fbab63020e101431db7522a9546336ee750a53970e79517590a"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "d600449aadc1b6d9ddab47758815daf7dcc792fc0c3283027d1bbf590144f5c8"
