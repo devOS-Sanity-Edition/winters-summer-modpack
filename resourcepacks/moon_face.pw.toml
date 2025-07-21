@@ -1,0 +1,13 @@
+name = "Moon face"
+filename = "Moon.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hqacraW8/versions/mkhuUqzZ/Moon.zip"
+hash-format = "sha512"
+hash = "5ad5975d7ecd42a95dcf36e5431f2503e1dc26c4170c4427dedac9f4c7d31f580935b30beb2c67a9a8a29a21dfeeb6a0dd1639af679a6c347afe47203769f9d3"
+
+[update]
+[update.modrinth]
+mod-id = "hqacraW8"
+version = "mkhuUqzZ"

@@ -1,2 +1,3 @@
-simulationDistance:8
+simulationDistance:12
 onboardAccessibility:true
+resourcePacks:["vanilla","fabric","$polymer-resources","moonlight:mods_dynamic_assets","natures_spirit:plank_consistency","natures_spirit:emissive_ores_compatibility","minecraft:supporteatinganimation"]

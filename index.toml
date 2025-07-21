@@ -65,12 +65,16 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
+file = "config/yosbr/config/vivecraft-client-config.json"
+hash = "18ca8954fffc584050c923ac102bec150f42812d0340576f052d194a16d10285"
+
+[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
+hash = "6a9f076087f0cb9fa7628714d34e2f04be46c100e7d3d331b027aeee2e24a654"
 
 [[files]]
 file = "mods/aa4-atlas.pw.toml"
@@ -220,6 +224,11 @@ metafile = true
 [[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
+metafile = true
+
+[[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
@@ -758,6 +767,11 @@ hash = "488fe9186b2245604922243bd08460c0800a65475da491a185980ab6892215bb"
 metafile = true
 
 [[files]]
+file = "mods/starhud.pw.toml"
+hash = "9ef133e41ded3c54555ebd5a564742faf144a0e65f886d444e02e5ecde4a5baf"
+metafile = true
+
+[[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "570a995d2e20eed34c5b708f09b4b02fea827054a32df7bb55257719b8cc849e"
 metafile = true
@@ -908,6 +922,6 @@ hash = "745fd5cd0b5ddaca6b0fba915428c63a47d32ee9e281c3661b41aa34dd8b653b"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
+file = "resourcepacks/moon_face.pw.toml"
+hash = "7a6b3147bca24fbab63020e101431db7522a9546336ee750a53970e79517590a"
 metafile = true
