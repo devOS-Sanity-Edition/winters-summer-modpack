@@ -9,6 +9,10 @@ file = "config/canary.json"
 hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
 [[files]]
+file = "config/customwindowtitle-client.toml"
+hash = "f35d953eba653c1ff7e74f3ce3f44357a871cb81be6b75207bbdd29a9af02a6a"
+
+[[files]]
 file = "config/polydex.json"
 hash = "2a9fa4c5b60e5918349ef56c678b27f1349241c4e4ad14f9f449eaa14af4eedc"
 
@@ -23,10 +27,6 @@ hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
 [[files]]
 file = "config/yosbr/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
-file = "config/yosbr/config/customwindowtitle-client.toml"
-hash = "f35d953eba653c1ff7e74f3ce3f44357a871cb81be6b75207bbdd29a9af02a6a"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
