@@ -336,6 +336,11 @@ hash = "54d39131b07120334ad896779402eb5a372a1bcba5e089a50a17329fe3f29aee"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "eb4979620b2be5307bd3e8476f60b6db74af5c72fe1c27d401f85655f47d64ed"
 metafile = true
@@ -943,6 +948,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/moon_face.pw.toml"
 hash = "7a6b3147bca24fbab63020e101431db7522a9546336ee750a53970e79517590a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
