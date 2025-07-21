@@ -459,6 +459,11 @@ hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "5d25233fba3660f080fdf112e1599ce4365183930b2385dfd9591d32ed0be29a"
+metafile = true
+
+[[files]]
 file = "mods/only-hammers-and-excavators.pw.toml"
 hash = "b9a0323fd8316b0a359265be51499eb68b081e47aef4ac3106e86c5896d1a08a"
 metafile = true
