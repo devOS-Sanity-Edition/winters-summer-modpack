@@ -479,6 +479,11 @@ hash = "7672fb368275a6433f2d012e74e8650a0d2405626f68d71332a769b02d9f3003"
 metafile = true
 
 [[files]]
+file = "mods/noexpensive.pw.toml"
+hash = "f5f834fd67f3a0d860a7f368613bd68ea78abc9fa50850213129fafc010984a2"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
@@ -741,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor.pw.toml"
 hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
 metafile = true
 
 [[files]]
