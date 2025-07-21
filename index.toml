@@ -419,11 +419,6 @@ hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
 
 [[files]]
-file = "mods/mochila.pw.toml"
-hash = "ddea591b5af708d818b35d0ac169d731d38bcdc775cd3fa62a6a5bb24307d1e9"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "605e4295a1ac4a1c4b3345370e596d4e8ee40dd22ab5ebf699f594dd247e7b94"
 metafile = true
@@ -656,6 +651,16 @@ metafile = true
 [[files]]
 file = "mods/softer-pastels.pw.toml"
 hash = "6233a79d1e79849e0a7c1e8d6a8f062188b928a8df163a041502d980dca1ca3f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
+hash = "89dd914f2db3cd453e80599ce3520399f492629469299d2b2abd3b4a7adc19f0"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
+hash = "141bc11a38f89ee903cab997fb50ec7946a3636dfb9824d68979092d4de412de"
 metafile = true
 
 [[files]]
