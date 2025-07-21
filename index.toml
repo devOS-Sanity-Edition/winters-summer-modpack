@@ -199,6 +199,11 @@ hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "4b134bf893f9a368518eb9e2aed4f3f79e51d381cf811f9c61a805f6d0733cae"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
@@ -751,6 +756,11 @@ metafile = true
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
 hash = "b378907ce549ea5d45b71629cbb7ac40a1c2a53e8c27c579b82fe47595490d4c"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "b693b47afa78112b881816a92b26f1e5cd5c9b1ba0f77b7b6a630d0eb101524f"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "CraftedCore"
+filename = "craftedcore-5.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/fAMriSfW/craftedcore-5.8.jar"
+hash-format = "sha512"
+hash = "89e7854442024b6eececce611b2b981af45a9b4d04cb47d85ced8b92bcfd36a5cd423c106a1afbaccbe7eb2903ab6b7016ced7907d4c153253182d57858d70fb"
+
+[update]
+[update.modrinth]
+mod-id = "Dg7PHdkJ"
+version = "fAMriSfW"
