@@ -69,6 +69,11 @@ file = "config/yosbr/options.txt"
 hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
 
 [[files]]
+file = "mods/aa4-atlas.pw.toml"
+hash = "fcf0d1f6341d12d93a5507f13ac7f8d5677d45e1ef2d75fc6bb83eba129cd4c8"
+metafile = true
+
+[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "7d42a851748916958c8c3081f203e6ded630d3ad5a887b06b3013192fc90a554"
 metafile = true
@@ -81,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/amber.pw.toml"
 hash = "aab6fe3f139352ee01a87135cf2e6fdc3e1429fa4d7c43fd65494c87ba5d0578"
+metafile = true
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "03ff831cb8084db62a0c1ce791091f4b119956b9f3bacfa140ba4689cfd978a8"
 metafile = true
 
 [[files]]
@@ -386,11 +396,6 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
-metafile = true
-
-[[files]]
-file = "mods/hoofprint.pw.toml"
-hash = "6f2a10c1eca110ce157afd589b4e573330b44f5503ae1277837f4a82a333f59d"
 metafile = true
 
 [[files]]
