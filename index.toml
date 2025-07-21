@@ -274,6 +274,11 @@ hash = "1117210e9de44a4e729e9cb5a0b6f9c14ed68f132792c0e3a570b0f7ead9d135"
 metafile = true
 
 [[files]]
+file = "mods/embeddedcomputer.pw.toml"
+hash = "8e14a969a40b8ed47384e8d69c23abb048d2f320b3cf073f40a76512d34ab30b"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "1f9cd4e83ced98ba9f8ccff164ce108990e1e8f8f8205b6c549f7db26f1d8c11"
 metafile = true
