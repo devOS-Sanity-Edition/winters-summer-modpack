@@ -25,6 +25,10 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
 [[files]]
+file = "config/yosbr/config/customwindowtitle-client.toml"
+hash = "f35d953eba653c1ff7e74f3ce3f44357a871cb81be6b75207bbdd29a9af02a6a"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "b75ccc24ddb7fdd8e91f16a568885abd88b00876e9ffe40578d1cf0ce6d7371d"
 
