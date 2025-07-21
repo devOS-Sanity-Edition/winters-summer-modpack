@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "4c89734b6a18ea7f10bbc8e612dee81fdb94f63f157543fa6717d28326d81fcc"
+
+[[files]]
 file = "LICENSE"
 hash = "8e4146cde18f50f8617dfcaf9018b10fe12f81ce3f0f1661a73ec0be5cab3694"
 
@@ -725,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/sseds.pw.toml"
-hash = "6b82fc2fdaa7b6762f27088d2c2b3ec2167c4054bc376475907359cc6a86919d"
+hash = "488fe9186b2245604922243bd08460c0800a65475da491a185980ab6892215bb"
 metafile = true
 
 [[files]]
