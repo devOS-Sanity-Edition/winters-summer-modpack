@@ -1,0 +1,13 @@
+name = "Cobble"
+filename = "eat-cobble-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DFjnkWTd/versions/9priwVVF/eat-cobble-1.0.0.jar"
+hash-format = "sha512"
+hash = "083448bfc383396ebcfa8a63a509198558582cd2cb59f4bcc08a5f160b5e50b24a3db0b7f2befeb5582a9a6f1de6ce499c8e955e09fb39dd3e42fb31a911b7a3"
+
+[update]
+[update.modrinth]
+mod-id = "DFjnkWTd"
+version = "9priwVVF"

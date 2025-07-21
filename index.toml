@@ -244,6 +244,11 @@ hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
 
 [[files]]
+file = "mods/eat-cobble.pw.toml"
+hash = "c088ba7c3b908983aa639f2e370f4aca61e05995cbeb45afe5bfa394c6f68d2b"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "cc46728d8879ff5ab1e00f17bb63bacaf30ea2699bb692c0ca5e084572ae3e8e"
 metafile = true
