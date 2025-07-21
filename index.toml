@@ -828,8 +828,8 @@ hash = "ffbe86f7b3e1108d5abae3d1a53a7d1ea62dc5a4ec83ed440781ddec228139a3"
 metafile = true
 
 [[files]]
-file = "mods/tree-chopping.pw.toml"
-hash = "eacb4762528d5c87e718cc214cb2520b34f714f0e694d3376c9e4c417a96b814"
+file = "mods/treechop.pw.toml"
+hash = "5a0280ac06f0ee35cfd7e5234e9d265842dbf91746e2b344e9ec66f1d1e4911a"
 metafile = true
 
 [[files]]
