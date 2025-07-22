@@ -171,8 +171,9 @@ hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true
 
 [[files]]
-file = "mods/bmarker.toml"
+file = "mods/bmarker.pw.toml"
 hash = "a9f7be3caf1ac1e6b3dc4dd35e1db5f8598e2bdcb863b5bce7f67644e2cf68a8"
+metafile = true
 
 [[files]]
 file = "mods/breeze-bounce.pw.toml"
@@ -575,8 +576,9 @@ hash = "e2ff96a331addb08e5e7b8d9a7bf46faacab79ed507a672878fef1fd7cb59f59"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.toml"
+file = "mods/nvidium.pw.toml"
 hash = "d1faec89cd4a4451520d673dc2b7af21e89c817804950915512d6e24a2ba81b9"
+metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
