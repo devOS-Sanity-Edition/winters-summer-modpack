@@ -450,6 +450,11 @@ hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook.pw.toml"
+hash = "7edba4b64a8617aa664977427fc53c05b7010773bdd070e8decc2a41b72e6aba"
+metafile = true
+
+[[files]]
 file = "mods/guarding.pw.toml"
 hash = "2fd16929b658c66a32982e91eb55c333bd4bcc14127582a7f6e38268f9aaccf6"
 metafile = true
