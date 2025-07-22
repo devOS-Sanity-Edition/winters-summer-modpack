@@ -885,6 +885,11 @@ hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
 metafile = true
 
 [[files]]
+file = "mods/transferable-pets.pw.toml"
+hash = "7d9348592d8295be66e2bdc533796d5ec018b762d1cd57a1778047846cc347bf"
+metafile = true
+
+[[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "ffbe86f7b3e1108d5abae3d1a53a7d1ea62dc5a4ec83ed440781ddec228139a3"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Transferable Pets"
+filename = "transferable_pets-[1.21]-1.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/C3DwnxOJ/versions/6q08wUZy/transferable_pets-%5B1.21%5D-1.0.5.jar"
+hash-format = "sha512"
+hash = "fa620b67427911a6075b8dd75db708a87954598c4eaf5e65d002e1df65ed4a73339553fa9853cb1705f8c043bd49c7e5c0d5e3df6d973a7e2daf2080d961fea4"
+
+[update]
+[update.modrinth]
+mod-id = "C3DwnxOJ"
+version = "6q08wUZy"
