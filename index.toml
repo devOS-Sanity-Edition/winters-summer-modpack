@@ -979,6 +979,11 @@ hash = "745fd5cd0b5ddaca6b0fba915428c63a47d32ee9e281c3661b41aa34dd8b653b"
 metafile = true
 
 [[files]]
+file = "mods/zoomify.pw.toml"
+hash = "208235d8f8b5f92cba00db12e00db01953cd8a5a224d62be68fda2ec172984fa"
+metafile = true
+
+[[files]]
 file = "resourcepacks/moon_face.pw.toml"
 hash = "7a6b3147bca24fbab63020e101431db7522a9546336ee750a53970e79517590a"
 metafile = true
@@ -990,4 +995,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "d600449aadc1b6d9ddab47758815daf7dcc792fc0c3283027d1bbf590144f5c8"
+hash = "30f0ff520cc671825aeb232213d2346c8bd0295ab7a8fe6c68fe95aec121218d"

@@ -111,6 +111,21 @@ flavors = "sodium_tweaks"
 flavors = "sodium_tweaks"
 
 
+[flavor_groups.nvidium]
+name = "Nvidium"
+description = "Fast nvidia only rendering engine for sodium."
+side = "client"
+[[flavor_groups.nvidium.choices]]
+id = "nvidiumno"
+name = "No"
+[[flavor_groups.nvidium.choices]]
+id = "nvidium"
+name = "Yes"
+
+[metafile.nvidium]
+flavors = "nvidium"
+
+
 [flavor_groups.jade]
 name = "Jade"
 description = "Info about what you're looking at in the top middleof of your screen."
@@ -126,19 +141,25 @@ name = "No"
 flavors = "jade"
 
 
-[flavor_groups.gen_z]
-name = "Ok Zoomer"
+[flavor_groups.zoom]
+name = "Zoom Mod"
 description = "Zoom like you need glasses."
 side = "client"
-[[flavor_groups.gen_z.choices]]
-id = "gen_z"
-name = "Yes"
-[[flavor_groups.gen_z.choices]]
-id = "gen_zno"
-name = "No"
+[[flavor_groups.zoom.choices]]
+id = "ok-zoomer"
+name = "Ok Zoomer"
+[[flavor_groups.zoom.choices]]
+id = "zoomify"
+name = "Zoomify"
+description = "If you want more GUI customization than Ok Zoomer."
+[[flavor_groups.zoom.choices]]
+id = "zoomnone"
+name = "None"
 
 [metafile.ok-zoomer]
-flavors = "gen_z"
+flavors = "ok-zoomer"
+[metafile.zoomify]
+flavors = "zoomify"
 
 
 [flavor_groups.sound_physics]
