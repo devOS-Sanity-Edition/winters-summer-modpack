@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "8e4146cde18f50f8617dfcaf9018b10fe12f81ce3f0f1661a73ec0be5cab3694"
-
-[[files]]
 file = "config/canary.json"
 hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
@@ -71,6 +67,10 @@ hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
+
+[[files]]
+file = "config/yosbr/config/vanillin.json"
+hash = "b27703e87f4abc548e8cf6caf541f64ccc03f2d880c406f7bb65402d1bdc344d"
 
 [[files]]
 file = "config/yosbr/config/vivecraft-client-config.json"
