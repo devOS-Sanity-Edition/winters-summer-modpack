@@ -161,6 +161,20 @@ hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-polymer-patch.pw.toml"
+hash = "978266c4bfbfff4cfde89584654d17cb7a8feae03b871df02860d3fc4868a5ff"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
+metafile = true
+
+[[files]]
+file = "mods/bmarker.toml"
+hash = "a9f7be3caf1ac1e6b3dc4dd35e1db5f8598e2bdcb863b5bce7f67644e2cf68a8"
+
+[[files]]
 file = "mods/breeze-bounce.pw.toml"
 hash = "6b141683470c6e49f1ea5ae5d1f28ec3441bd511f6fe780ffac1d92c1377db42"
 metafile = true
@@ -731,6 +745,11 @@ hash = "509a129f843e72b23f7269fb940bbd757a78716d6f2350f33ebe751c40bb77f8"
 metafile = true
 
 [[files]]
+file = "mods/silk.pw.toml"
+hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
+metafile = true
+
+[[files]]
 file = "mods/simple-copper-pipes.pw.toml"
 hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
 metafile = true
@@ -848,6 +867,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/thaumon.pw.toml"
+hash = "f0a2cde8cf0dbe93a9122dbade2f581b742801cdf86aff44492be5cb51391840"
 metafile = true
 
 [[files]]
