@@ -10,7 +10,7 @@ hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "f35d953eba653c1ff7e74f3ce3f44357a871cb81be6b75207bbdd29a9af02a6a"
+hash = "77f0a395cd4ec3f3a9a103301788e4a86ab055ed680b7a806c435d8d526835d3"
 
 [[files]]
 file = "config/polydex.json"
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
+hash = "b185ad5c19f8029d3a623e6ca4d9986f716884f182168bc63afd76f52f5e31af"
 metafile = true
 
 [[files]]
@@ -491,7 +491,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
@@ -636,12 +636,12 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "cb84fbdbb6da8b0a4777b91ce4d10fb33583bf5aa4e71f73b17b03387383876c"
+hash = "c09e7849301c02a155590322a2c83187e395ab63c976b9da7a664cd55e1ddb91"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ae088bbe06df7bdebea9b4fd523879b1fb49a26baef9ef9ddbb4749f43df7b5f"
+hash = "62df1cb449d5c6f8c5d670f14819a106a451e88102b8b066efeb73951f058d30"
 metafile = true
 
 [[files]]
@@ -651,12 +651,12 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-groups.pw.toml"
-hash = "43c15115aa3a05912a943f022bb850e72931fe8f4e01c005181dc99a673cb527"
+hash = "0b65ce0dc7f2556c0fbf900a2d955ea8685d7ebe85800346d96d527a882c6bef"
 metafile = true
 
 [[files]]
 file = "mods/pv-addon-sculk.pw.toml"
-hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+hash = "a773b5cc4ca2a6db78f6b265f4ad1dd0462391a8953d8b6d11a0cd0496341b40"
 metafile = true
 
 [[files]]
@@ -666,7 +666,7 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-spectator.pw.toml"
-hash = "e3c97ebd909a98c6560d87e1328971f95ede17e953340d61fcdef9cd7aacde1a"
+hash = "b1f9eb00acd4f6a421f1dd3c6bb50ad5cdb11985b54d215b2078b91ce6fbeb0d"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "8332883ba7749d4928d18aa3e23ebea16f0174b27c5f872c5664ac9fb8696edf"
+hash = "a388c7e1cb4e9d632f9b8acbc06b2b644bb06311048de26637c0bc1bdf2065e8"
 metafile = true
 
 [[files]]
@@ -961,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "ffcf32caf3dda8f05adb109dc86c477cf1bb768bac6232bc5bcf0d60a7861bcb"
+hash = "08c12b515261f297770fa17af2508f263ccb9c2b30333979cd3c3b0fbbbef23f"
 metafile = true
 
 [[files]]
@@ -1001,4 +1001,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "30f0ff520cc671825aeb232213d2346c8bd0295ab7a8fe6c68fe95aec121218d"
+hash = "ff7c2cbc76cf771d5b79f4006ebdb791bc97dc7745bc358dcb7484393a77ff83"

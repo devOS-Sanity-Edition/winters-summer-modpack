@@ -1,6 +1,6 @@
 name = "pv-addon-spectator"
 filename = "pv-addon-spectator-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bZwNKr3n/versions/ugWqtFbc/pv-addon-spectator-1.1.0.jar"

@@ -162,22 +162,31 @@ flavors = "ok-zoomer"
 flavors = "zoomify"
 
 
-[flavor_groups.sound_physics]
-name = "Sound Physics"
+[flavor_groups.sound]
+name = "Sound Mods"
 description = "Make your sounds a lot more immersive."
 side = "client"
-[[flavor_groups.sound_physics.choices]]
-id = "sound_physicsno"
+[[flavor_groups.sound.choices]]
+id = "soundno"
 name = "No"
-[[flavor_groups.sound_physics.choices]]
-id = "sound_physics"
-name = "Yes"
+[[flavor_groups.sound.choices]]
+id = "euphonium"
+name = "Euphonium"
+description = "An immersive sound mod that adds biome, structure, and environment-specific sounds."
+[[flavor_groups.sound.choices]]
+id = "soundphysicsremastered"
+name = "Sound Physics Remastered"
+description = "Makes sounds more immersive in a realistic physical manner, with sound attenuation, reverberation, and absorption through blocks"
+[[flavor_groups.sound.choices]]
+id = "sound-all"
+name = "Both"
 
 [metafile.sound-physics-remastered]
-flavors = "sound_physics"
+flavors = [ "soundphysicsremastered", "sound-all" ]
 [metafile.pv-addon-soundphysics]
-flavors = "sound_physics"
-
+flavors = [ "soundphysicsremastered", "sound-all" ]
+[metafile.euphonium]
+flavors = [ "euphonium", "sound-all" ]
 
 [flavor_groups.controller]
 name = "Controller Mod"
