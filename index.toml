@@ -987,7 +987,3 @@ metafile = true
 [[files]]
 file = "unsup.toml"
 hash = "d600449aadc1b6d9ddab47758815daf7dcc792fc0c3283027d1bbf590144f5c8"
-
-[[files]]
-file = "🦀"
-hash = "5d40fbf44301a6d80c06a5a5fb6aa8cdbb0c987d3aa07740e2bb941df3d7b862"
