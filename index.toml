@@ -145,11 +145,6 @@ hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
 metafile = true
 
 [[files]]
-file = "mods/bbrb.pw.toml"
-hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
-metafile = true
-
-[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
