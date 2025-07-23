@@ -85,6 +85,10 @@ file = "config/yosbr/options.txt"
 hash = "bee19c690f9ef907eddc01921e8a46e09995796440dd28a93de37387ba6cb11d"
 
 [[files]]
+file = "mods/Powah-5.1.0.jar"
+hash = "b36002f1aec1d858ca93252d1596610988327fdca46bc53c98f5b5797f6f2710"
+
+[[files]]
 file = "mods/aa4-atlas.pw.toml"
 hash = "fcf0d1f6341d12d93a5507f13ac7f8d5677d45e1ef2d75fc6bb83eba129cd4c8"
 metafile = true
@@ -182,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
-metafile = true
-
-[[files]]
-file = "mods/canary-safety.pw.toml"
-hash = "b77295058408fec118106d8464ab95845a0f87779a95da7a35be557e9981f49c"
 metafile = true
 
 [[files]]
