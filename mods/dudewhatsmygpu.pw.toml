@@ -1,0 +1,13 @@
+name = "Dude, What's My GePeUWU?"
+filename = "dudewhatsmygepeuwu-mc1.21.1-Fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DM4vbHFP/versions/4xunG15T/dudewhatsmygepeuwu-mc1.21.1-Fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "aef18caa3591e525b48ff80a9293d540708aaeceec12d4bcb93ea3bdcf8edd459439b5bdf2b53e2cd12930a97abac920fff90b99d5bf80f75eba722ec73ca51a"
+
+[update]
+[update.modrinth]
+mod-id = "DM4vbHFP"
+version = "4xunG15T"

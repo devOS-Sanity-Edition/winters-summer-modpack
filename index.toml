@@ -254,6 +254,11 @@ hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
 
 [[files]]
+file = "mods/creeper-multidrop.pw.toml"
+hash = "91944a7c8fc213249abd62910eebe8b5ad803436d2703df574281e54e1dbd0a9"
+metafile = true
+
+[[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
@@ -266,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
+metafile = true
+
+[[files]]
+file = "mods/dudewhatsmygpu.pw.toml"
+hash = "0f20f7451c8fa1674230301abc8907c030dfcaddabc523df305ebe5f4bce21f3"
 metafile = true
 
 [[files]]
@@ -695,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainbethunder.pw.toml"
-hash = "9626a8a791307686f23a12bfd84d44f0f8daab64ad1442f75c15937c37aa5856"
+hash = "0ae3415956e65e305517f10c8008cee68bdea22a9ff4a908c28bd1422d05772b"
 metafile = true
 
 [[files]]

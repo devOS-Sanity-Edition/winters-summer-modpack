@@ -1,0 +1,13 @@
+name = "Creeper Multidrop"
+filename = "creepermultidrop-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F7uKpab0/versions/qGzkh3nC/creepermultidrop-1.4.0.jar"
+hash-format = "sha512"
+hash = "0d18f3e557f0cab6dd3f78b70498f20d6fe42490492b66a8c4e004f13e89604ee783eb81b43595edcd0fd1dedaf545a6f2e2da2badd1d56743790260e396ce50"
+
+[update]
+[update.modrinth]
+mod-id = "F7uKpab0"
+version = "qGzkh3nC"
