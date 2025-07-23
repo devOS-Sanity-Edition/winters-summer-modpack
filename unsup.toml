@@ -100,15 +100,21 @@ description = "Display fancy HUDs in your game."
 [[flavor_groups.ui.choices]]
 id = "travelers-titles"
 name = "Traveler's Titles"
-description = "RPG-like titles when entering biomes & dimensions."
+description = "RPG-like titles when entering biomes and dimensions."
+[[flavor_groups.ui.choices]]
+id = "dynamiccrosshair"
+name = "Dynamic Crosshair"
+description = "Crosshair that hides or changes depending on your actions"
 [[flavor_groups.ui.choices]]
 id = "all_ui"
-name = "Both"
+name = "All"
 
 [metafile.starhud]
 flavors = ["starhud", "all_ui"]
 [metafile.travelers-titles]
 flavors = ["travelers-titles", "all_ui"]
+[metafile.dynamiccrosshair]
+flavors = ["dynamiccrosshair", "all_ui"]
 
 
 [flavor_groups.sodium_tweaks]

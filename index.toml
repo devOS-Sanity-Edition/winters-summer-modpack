@@ -309,6 +309,11 @@ hash = "64e4a9b631fe3ff5342db258b5a5eb7cf832f6a73923856f1057322d11ada3c8"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "d2f5bbca47e69968b4a9555425d73d9a906de02258944a89e8f76955778c1251"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
@@ -1035,4 +1040,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "b86f445d28e51d01e3f9d980898fb0812ec321cf0c3f14b7ec1411b66e5c638c"
+hash = "b8817de3f74ef49746f82ceee259e1b962a28373f5203fa9cfe79af2f76f9887"
