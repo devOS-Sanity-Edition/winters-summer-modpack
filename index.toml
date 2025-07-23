@@ -259,6 +259,11 @@ hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "5a81664794c90a37cadb6f55bba2b9da4023054d7b48fb244d8c87d5fb2c6949"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
 metafile = true
@@ -425,7 +430,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "f9d89c62265e675839395d925f4162e3e93fda837ed50fbe3832f4ae9c58bebb"
+hash = "6afc47cce5b7aa63fb1841b92e532a49f4b9a480e5f99ce92b1a220013b53c21"
 metafile = true
 
 [[files]]
@@ -545,7 +550,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0786b447efae84ee1337934109274ca927c9862c0b60676aee97c873f2add765"
+hash = "bf3044420b1c0076db4afe2d955e8c6762b8912ec5b0271e8040e8e7371447d4"
 metafile = true
 
 [[files]]
@@ -690,7 +695,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainbethunder.pw.toml"
-hash = "d815fea528285de6f4a6841cb9e2ddfd028c89080282379fbace090bd642fca1"
+hash = "9626a8a791307686f23a12bfd84d44f0f8daab64ad1442f75c15937c37aa5856"
 metafile = true
 
 [[files]]
@@ -720,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "561c73e663a408a07be5939182db6a72ff30cffd6b7d6704eb58b68e692b19ba"
+hash = "62d5c7f15cfebc9f4b29beddf20e9ab09361f60e2fd06bcf6402f96c3b8b6661"
 metafile = true
 
 [[files]]
@@ -740,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/rustic-delight.pw.toml"
-hash = "5aecb2c89d5fee07b8bf14b52ff2b8f87d018ffa97c1632b529bc35edc3e6f7f"
+hash = "432bd453b982cca6e0f96ab7fb3ca9ccc929ff879d20663266dcafe389660e37"
 metafile = true
 
 [[files]]
