@@ -260,6 +260,11 @@ hash = "24d6c27315866a6dd672daef2f844b1b202aa173953824cb3586bed8667f3d5c"
 metafile = true
 
 [[files]]
+file = "mods/duely.pw.toml"
+hash = "7a6525b0c6270f7554dcafb5abf80fb9fdc5b503491559efc7d0f4cac35a12a8"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "e811185f1b2c3d26c5bb3dfcab59d1e86dee35815f7f25a10efec48cf4f48b4e"
 metafile = true
@@ -337,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/emiffect.pw.toml"
 hash = "76be799469466baf22ab606c07861a07ae93159212bd9554eadc4e6beca52968"
+metafile = true
+
+[[files]]
+file = "mods/enderscape.pw.toml"
+hash = "6fbeac602c941f5f37cda38e2a8dece059018b2caf9b9215b41ecc0314bd3274"
 metafile = true
 
 [[files]]

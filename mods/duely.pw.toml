@@ -1,0 +1,15 @@
+name = "duely"
+filename = "duely-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Oliver-makes-code/duely/releases/download/1.0.0/duely-1.0.0.jar"
+hash-format = "sha256"
+hash = "02170eaf3e43cbf953327b99cc1918a62d576d7365d3729a24259209b2127604"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Oliver-makes-code/duely"
+tag = "1.0.0"
