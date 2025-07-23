@@ -244,6 +244,11 @@ hash = "4b134bf893f9a368518eb9e2aed4f3f79e51d381cf811f9c61a805f6d0733cae"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "3893f6af48ca828414b4abb2a1f42d08403477359b09836744016439cf8434d3"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
@@ -929,6 +934,11 @@ hash = "a7168784163cc4eda8a69f573a69fd8cd6228660be91d57a710e05b3e9a4979f"
 metafile = true
 
 [[files]]
+file = "mods/unilib.pw.toml"
+hash = "110c46218b1cf12d40043cd7670a16e703c7eb2dd8cb21b5681c8635031fadad"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "33a9724220cb538b26c68016b40cb1e2605faa90d3901cb2efbdaf18d61df41b"
 metafile = true
@@ -1010,4 +1020,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "ff7c2cbc76cf771d5b79f4006ebdb791bc97dc7745bc358dcb7484393a77ff83"
+hash = "b86f445d28e51d01e3f9d980898fb0812ec321cf0c3f14b7ec1411b66e5c638c"

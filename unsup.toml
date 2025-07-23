@@ -1,3 +1,20 @@
+[flavor_groups.drpc]
+name = "CraftPresence / Discord Rich Presence"
+description = "Shows in Discord the pack you're playing and its status"
+side = "client"
+[[flavor_groups.drpc.choices]]
+id = "drpc"
+name = "Yes"
+[[flavor_groups.drpc.choices]]
+id = "drpcno"
+name = "No"
+
+[metafile.craftpresence]
+flavors = "drpc"
+[metafile.unilib]
+flavors = "drpc"
+
+
 [flavor_groups.appleskin]
 name = "Apple Skin"
 description = "Shows saturation/exhaustion values on the hunger bar, and potential health restored while holding food on the health bar."
