@@ -134,6 +134,21 @@ flavors = "sodium_tweaks"
 flavors = "sodium_tweaks"
 
 
+[flavor_groups.dynamiclighting]
+name = "LambDynamicLights"
+description = "Have dynamic lighting!"
+side = "client"
+[[flavor_groups.dynamiclighting.choices]]
+id = "dynamiclights"
+name = "Yes"
+[[flavor_groups.dynamiclighting.choices]]
+id = "dynamiclightsno"
+name = "No"
+
+[metafile.lambdynamiclights]
+flavors = "dynamiclights"
+
+
 [flavor_groups.nvidium]
 name = "Nvidium"
 description = "Fast nvidia only rendering engine for sodium."
