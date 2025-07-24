@@ -65,6 +65,10 @@ file = "config/yosbr/config/servercore/optimizations.yml"
 hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 
 [[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "7b800bc65772667f53537e49560ac8356c0f5b3a9e91f72a43a51d0d949ff6c7"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
 
