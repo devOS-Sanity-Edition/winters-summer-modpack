@@ -201,15 +201,27 @@ id = "soundphysicsremastered"
 name = "Sound Physics Remastered"
 description = "Makes sounds more immersive in a realistic physical manner, with sound attenuation, reverberation, and absorption through blocks"
 [[flavor_groups.sound.choices]]
+id = "presencefootsteps"
+name = "Presence Footsteps"
+description = "A sound mod, for your feet."
+[[flavor_groups.sound.choices]]
+id = "soundphysicsremasteredandpresencefootsteps"
+name = "Sound Physics Remastered and Presence Footsteps"
+description = "Makes sounds more immersive in a realistic physical manner, with sound attenuation, reverberation, and absorption through blocks, now also with your feet too!"
+[[flavor_groups.sound.choices]]
 id = "sound-all"
-name = "Both"
+name = "All"
+description = "Sound physics, foot sound physics, and environmental sound overhaul?! Are you trying to be overwhelmed?"
 
 [metafile.sound-physics-remastered]
-flavors = [ "soundphysicsremastered", "sound-all" ]
+flavors = [ "soundphysicsremastered", "soundphysicsremasteredandpresencefootsteps", "sound-all" ]
+[metafile.presence-footsteps]
+flavors = [ "presencefootsteps", "soundphysicsremasteredandpresencefootsteps", "sound-all" ]
 [metafile.pv-addon-soundphysics]
-flavors = [ "soundphysicsremastered", "sound-all" ]
+flavors = [ "soundphysicsremastered", "soundphysicsremasteredandpresencefootsteps", "sound-all" ]
 [metafile.euphonium]
 flavors = [ "euphonium", "sound-all" ]
+
 
 [flavor_groups.controller]
 name = "Controller Mod"
