@@ -1,0 +1,13 @@
+name = "Multi Key Bindings"
+filename = "multi-key-bindings-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2VF6JEnL/versions/XZnOD1jV/multi-key-bindings-1.0.2.jar"
+hash-format = "sha512"
+hash = "5697ee08c6dbd6263643fc80768283b9da0167aab9c3ffee8ecf7bcf03f4307cc06df0489b05460788734360b3e81564c49659998767cfb1a5231f08353c6253"
+
+[update]
+[update.modrinth]
+mod-id = "2VF6JEnL"
+version = "XZnOD1jV"

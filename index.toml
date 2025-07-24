@@ -242,6 +242,11 @@ hash = "80bda31f8e1287a84403d758a21980758819ac7f067b29afa8283b5fcd5ee57a"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
 file = "mods/coolrain.pw.toml"
 hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
@@ -596,6 +601,11 @@ hash = "25d50d7ca185264b5b41d9b003c6cf6154488cf24fde554eebe4c8a4088df78b"
 metafile = true
 
 [[files]]
+file = "mods/multi-key-bindings.pw.toml"
+hash = "0b07fb47dbde7120103a707336d555f1952eaddc22db769bedbba0cfd9300aa1"
+metafile = true
+
+[[files]]
 file = "mods/music-maker-mod.pw.toml"
 hash = "7c7c332502a1e7aefedab9ba9b7db02e5de5e45b9215b2dc878cfa61eb226f48"
 metafile = true
@@ -778,6 +788,11 @@ metafile = true
 [[files]]
 file = "mods/scarves.pw.toml"
 hash = "d3ea12a16b99262f322a40b1b4803b8fcf6adbba59684ddb2e952107d1b4069d"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
