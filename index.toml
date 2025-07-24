@@ -479,11 +479,6 @@ hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook.pw.toml"
-hash = "7edba4b64a8617aa664977427fc53c05b7010773bdd070e8decc2a41b72e6aba"
-metafile = true
-
-[[files]]
 file = "mods/guarding.pw.toml"
 hash = "2fd16929b658c66a32982e91eb55c333bd4bcc14127582a7f6e38268f9aaccf6"
 metafile = true
@@ -532,6 +527,10 @@ metafile = true
 file = "mods/leashable-villagers.pw.toml"
 hash = "ae5643475cdd26dadec8b8f1d08af1bc3db0cb017e11863b62882ca04179ab32"
 metafile = true
+
+[[files]]
+file = "mods/limits_grapple-0.7.1-1.21.1.jar"
+hash = "2c7dae5fb58ff84711717d04873c488e34397c564d447b1ce6c6c0c98e679b5c"
 
 [[files]]
 file = "mods/lithium.pw.toml"
