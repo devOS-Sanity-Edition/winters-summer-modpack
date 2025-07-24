@@ -622,6 +622,11 @@ hash = "7672fb368275a6433f2d012e74e8650a0d2405626f68d71332a769b02d9f3003"
 metafile = true
 
 [[files]]
+file = "mods/new-lodestone-recipe.pw.toml"
+hash = "85401f8fc9972c61165a56038b6f05aac974c80aa2cbf727f127a3d4cd7cb8e6"
+metafile = true
+
+[[files]]
 file = "mods/noexpensive.pw.toml"
 hash = "f5f834fd67f3a0d860a7f368613bd68ea78abc9fa50850213129fafc010984a2"
 metafile = true
