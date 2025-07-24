@@ -492,9 +492,8 @@ hash = "499270116a69668fbc24ea6fdb429927e8eb63d81ad17aebc40b7af65bccafe1"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook.pw.toml"
+file = "mods/grappling-hook.toml"
 hash = "dff147b3d28242daa11d07da47fddba6595fab21abae38b1730dd1a6587de4b7"
-metafile = true
 
 [[files]]
 file = "mods/guarding.pw.toml"
@@ -547,8 +546,8 @@ hash = "ae5643475cdd26dadec8b8f1d08af1bc3db0cb017e11863b62882ca04179ab32"
 metafile = true
 
 [[files]]
-file = "mods/limits_grapple-0.7.1-1.21.1.jar"
-hash = "2c7dae5fb58ff84711717d04873c488e34397c564d447b1ce6c6c0c98e679b5c"
+file = "mods/limits_grapple-0.7.3-1.21.1.jar"
+hash = "d41c92bf280c2a5dcd46e006ab59954191a78c139069d53e512d071fe3d78bf4"
 
 [[files]]
 file = "mods/lithium.pw.toml"
