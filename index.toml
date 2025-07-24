@@ -6,7 +6,11 @@ hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "77f0a395cd4ec3f3a9a103301788e4a86ab055ed680b7a806c435d8d526835d3"
+hash = "dd35ecb3544d0fe28d38a7f79d733c81bcfbb356d71bf92e8380ea5f987f1e3f"
+
+[[files]]
+file = "config/customwindowtitle/icon.png"
+hash = "b0079cebac576d90000f09106d3a587876ba9d62e8bd20b755a11930d1860308"
 
 [[files]]
 file = "config/polydex.json"
@@ -1044,4 +1048,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "b8817de3f74ef49746f82ceee259e1b962a28373f5203fa9cfe79af2f76f9887"
+hash = "eaab1e1bcd2c3051750e9ffb645c2e40db371ee9e499587f37249dc5f85c7b56"

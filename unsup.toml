@@ -96,7 +96,7 @@ name = "None"
 [[flavor_groups.ui.choices]]
 id = "starhud"
 name = "StarHUD"
-description = "Display fancy HUDs in your game."
+description = "Display fancy HUDs in your game. If in use with Jade, remember to go into StarHUD's settings, go to Targetted, and set Show HUD to No. Make sure to also readjust Jade's positioning by going to Jade's settings, Mod Settings, Appearance, and then hit Adjust for Overlay Position. Alternatively, you can not use Jade and just use StarHUD's built in Targetter instead."
 [[flavor_groups.ui.choices]]
 id = "travelers-titles"
 name = "Traveler's Titles"
@@ -151,7 +151,7 @@ flavors = "nvidium"
 
 [flavor_groups.jade]
 name = "Jade"
-description = "Info about what you're looking at in the top middleof of your screen."
+description = "Info about what you're looking at in the top middle of your screen. If in use with StarHUD, remember to go into StarHUD's settings, go to Targetted, and set Show HUD to No. Make sure to also readjust Jade's positioning by going to Jade's settings, Mod Settings, Appearance, and then hit Adjust for Overlay Position. Alternatively, you can not use Jade and just use StarHUD's built in Targetter instead."
 side = "client"
 [[flavor_groups.jade.choices]]
 id = "jade"
