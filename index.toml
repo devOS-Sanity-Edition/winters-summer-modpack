@@ -839,6 +839,11 @@ hash = "26d393b9a598faf49f2a526c3a3eeadd197e4a3a0a263d965501593b080cec41"
 metafile = true
 
 [[files]]
+file = "mods/soulice.pw.toml"
+hash = "dcebc2ba127e078e0c6bbc2b965d281bcc5051f7fd948d8c2b35905af207746e"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
 metafile = true
