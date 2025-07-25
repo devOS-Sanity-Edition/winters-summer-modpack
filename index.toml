@@ -191,6 +191,11 @@ hash = "a9f7be3caf1ac1e6b3dc4dd35e1db5f8598e2bdcb863b5bce7f67644e2cf68a8"
 metafile = true
 
 [[files]]
+file = "mods/bounced.pw.toml"
+hash = "9d4142f9f1a2e429796ac778ab036286a8a9da287bad2bea2b5b6b1f72816a52"
+metafile = true
+
+[[files]]
 file = "mods/breeze-bounce.pw.toml"
 hash = "6b141683470c6e49f1ea5ae5d1f28ec3441bd511f6fe780ffac1d92c1377db42"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/dark-enchanting.pw.toml"
 hash = "5a81664794c90a37cadb6f55bba2b9da4023054d7b48fb244d8c87d5fb2c6949"
+metafile = true
+
+[[files]]
+file = "mods/disable-double-tap-to-sprint.pw.toml"
+hash = "a1c7fa393dac482798417814ba6b0c1739112f30ba68cf060e45da607ff237af"
 metafile = true
 
 [[files]]
@@ -766,6 +776,11 @@ hash = "2bffa6c1567434052a06d500eb52cf88f3df7231abe751d3248cb0e3ca7aa718"
 metafile = true
 
 [[files]]
+file = "mods/ready-player-fun.pw.toml"
+hash = "5c9e81d703b6dc6521577a8976a4b9b1a0f6250f2c594a3613212a8e1e098a78"
+metafile = true
+
+[[files]]
 file = "mods/rearm.pw.toml"
 hash = "ed4c8526264cf7b19fbe8dc83803aa536d5a033fcecec890c4a8ffcbb7b3cc3b"
 metafile = true
@@ -851,8 +866,18 @@ hash = "c8c4ff771efb2674ddc834787a0c093d4bf917b9a33e7d4fc429f3b9f01535a1"
 metafile = true
 
 [[files]]
+file = "mods/simple-music-control.pw.toml"
+hash = "dee5e7633b41381ca78cd24d4f16cdc3de3a92fa41bd1c8369121867a33177f5"
+metafile = true
+
+[[files]]
 file = "mods/sketch.pw.toml"
 hash = "d68ba63b7d24eed973f5bc38233633a300ed264a216f549a36b56d6bdd97f550"
+metafile = true
+
+[[files]]
+file = "mods/soaring-phantoms.pw.toml"
+hash = "e00bccd81ac9b01ec98b27eeb72dbead965081a1b10f9fb4b9af6f190dcfbb02"
 metafile = true
 
 [[files]]
