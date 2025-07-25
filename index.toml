@@ -352,6 +352,11 @@ hash = "1117210e9de44a4e729e9cb5a0b6f9c14ed68f132792c0e3a570b0f7ead9d135"
 metafile = true
 
 [[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "5d9dccf20bc9f0e073095dceb223c63a60413bdf4f47b1e6b45a221fecb6be61"
+metafile = true
+
+[[files]]
 file = "mods/embeddedcomputer.pw.toml"
 hash = "8e14a969a40b8ed47384e8d69c23abb048d2f320b3cf073f40a76512d34ab30b"
 metafile = true
@@ -514,6 +519,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0e5b10aefb078de8f531b588b6384cbfa585f8c6991b0b9b21dce1d642a6d840"
+metafile = true
+
+[[files]]
+file = "mods/interdimensional-wireless-transmitter.pw.toml"
+hash = "cd4b12479307a9f92205095c50e5f138efe9e280a83180a657cab5a807ae3ac1"
 metafile = true
 
 [[files]]

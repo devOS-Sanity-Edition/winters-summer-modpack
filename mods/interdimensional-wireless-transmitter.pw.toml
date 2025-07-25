@@ -1,0 +1,13 @@
+name = "Interdimensional Wireless Transmitter"
+filename = "interdimensionalwirelesstransmitter-fabric-1.21.1-0.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nQR8XALE/versions/iELtl4Ft/interdimensionalwirelesstransmitter-fabric-1.21.1-0.1.4.jar"
+hash-format = "sha512"
+hash = "fee10bfe246362b31a74c31f6c89f9a5f5bca32eb06eb30ad9cb6e86c2ad3c66837e35ec9e414c42af55fd8e12ae3f1889a02341a3abb11d819b1280e0a334e5"
+
+[update]
+[update.modrinth]
+mod-id = "nQR8XALE"
+version = "iELtl4Ft"
