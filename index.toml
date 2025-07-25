@@ -5,6 +5,10 @@ file = "config/canary.json"
 hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "78a175ef98054cb63c2e3793d54ff56f534f038793737579cc950a4c194e17d1"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "dd35ecb3544d0fe28d38a7f79d733c81bcfbb356d71bf92e8380ea5f987f1e3f"
 
