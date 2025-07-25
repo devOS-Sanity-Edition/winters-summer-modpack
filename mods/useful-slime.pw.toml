@@ -1,0 +1,13 @@
+name = "Useful Slime"
+filename = "UsefulSlime-fabric-1.21-1.12.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CzM6C1W0/versions/rNkIsBfK/UsefulSlime-fabric-1.21-1.12.1.jar"
+hash-format = "sha512"
+hash = "6ffce7616b8c238e567a88429d1096ff6a0643ec5b8ea1bd2a869725f0fc660d4f67013e4139b59c2ae9737981a4e80303b98b0761d5a9ccf4d1c7410c098962"
+
+[update]
+[update.modrinth]
+mod-id = "CzM6C1W0"
+version = "rNkIsBfK"

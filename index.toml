@@ -1021,6 +1021,11 @@ hash = "110c46218b1cf12d40043cd7670a16e703c7eb2dd8cb21b5681c8635031fadad"
 metafile = true
 
 [[files]]
+file = "mods/useful-slime.pw.toml"
+hash = "b98d41800409e1b599c0de30295e871cc38ccd815ce0aa1fff29d96a120b1121"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "33a9724220cb538b26c68016b40cb1e2605faa90d3901cb2efbdaf18d61df41b"
 metafile = true
