@@ -25,10 +25,6 @@ file = "config/polymer/resource-pack.json"
 hash = "1baff6398559ffa2078b00e361339705051ebbe63a4fc3f94f550429033a50b2"
 
 [[files]]
-file = "config/surveyor.toml"
-hash = "2e70ac70080b009842c3665f0d53b93692879071689c6d81d3ac399510116c1c"
-
-[[files]]
 file = "config/yigd.json"
 hash = "3250bc3336d7ddfdeb9b32259e89ab73323317d689c61ec84167662fb4ebaba3"
 
