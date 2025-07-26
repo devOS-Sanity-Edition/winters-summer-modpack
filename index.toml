@@ -6,7 +6,7 @@ hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
 [[files]]
 file = "config/craftpresence.json"
-hash = "78a175ef98054cb63c2e3793d54ff56f534f038793737579cc950a4c194e17d1"
+hash = "beec7ba175b96c8ad5df873505d3921327161042cf86f4e833a23ca4c623f8b8"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
