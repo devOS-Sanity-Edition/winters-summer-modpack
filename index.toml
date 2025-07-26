@@ -101,11 +101,6 @@ file = "mods/Powah-5.1.0.jar"
 hash = "b36002f1aec1d858ca93252d1596610988327fdca46bc53c98f5b5797f6f2710"
 
 [[files]]
-file = "mods/aa4-atlas.pw.toml"
-hash = "fcf0d1f6341d12d93a5507f13ac7f8d5677d45e1ef2d75fc6bb83eba129cd4c8"
-metafile = true
-
-[[files]]
 file = "mods/actually-harvest.pw.toml"
 hash = "7d42a851748916958c8c3081f203e6ded630d3ad5a887b06b3013192fc90a554"
 metafile = true
@@ -118,11 +113,6 @@ metafile = true
 [[files]]
 file = "mods/amber.pw.toml"
 hash = "aab6fe3f139352ee01a87135cf2e6fdc3e1429fa4d7c43fd65494c87ba5d0578"
-metafile = true
-
-[[files]]
-file = "mods/antique-atlas-4.pw.toml"
-hash = "c076df55219cc277e1fe09f0b61d62f0569bba2b753dad177223efa4d660d9e7"
 metafile = true
 
 [[files]]
@@ -973,11 +963,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97df1677b1871339d75f5244c74446990a6109186f3b0478961181352b23ad8d"
-metafile = true
-
-[[files]]
-file = "mods/surveyor.pw.toml"
-hash = "a9c96b9fef877ea4501b772c104da6e52e01a09590ea434ff43824dbd23d9691"
 metafile = true
 
 [[files]]
