@@ -257,3 +257,17 @@ description = "Controlify is preferred. Only use if it doesn't work for you."
 flavors = "controlify"
 [metafile.midnightcontrols]
 flavors = "midnightcontrols"
+
+[flavor_groups.flashback]
+name = "Flashback"
+description = "A better ReplayMod"
+side = "client"
+[[flavor_groups.flashback.choices]]
+id = "flashback"
+name = "Yes"
+[[flavor_groups.flashback.choices]]
+id = "flashnt"
+name = "No"
+
+[metafile.flashback]
+flavors = "flashback"
