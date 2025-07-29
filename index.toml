@@ -202,11 +202,6 @@ hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
-file = "mods/carpet.pw.toml"
-hash = "a059d2d23cd47fe2e698f06826a1053a39599f74fb1b739c622754630f90086c"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "f583de4c5ee2d0de4ded1d98960f70d098faae4ad529e854d46ab62bfc67bc1e"
 metafile = true
@@ -354,11 +349,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
-
-[[files]]
-file = "mods/elytra-vaults-atlasplays.pw.toml"
-hash = "1117210e9de44a4e729e9cb5a0b6f9c14ed68f132792c0e3a570b0f7ead9d135"
 metafile = true
 
 [[files]]
