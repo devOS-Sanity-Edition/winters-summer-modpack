@@ -9,6 +9,10 @@ file = "config/craftpresence.json"
 hash = "beec7ba175b96c8ad5df873505d3921327161042cf86f4e833a23ca4c623f8b8"
 
 [[files]]
+file = "config/crash-pipe/crash.wav"
+hash = "f1d08814c308d1cda973f9c70e99fccc9b227e430c59df3f1049451f1a486086"
+
+[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "dd35ecb3544d0fe28d38a7f79d733c81bcfbb356d71bf92e8380ea5f987f1e3f"
 
