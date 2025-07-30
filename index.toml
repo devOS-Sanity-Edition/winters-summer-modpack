@@ -112,6 +112,11 @@ hash = "aab6fe3f139352ee01a87135cf2e6fdc3e1429fa4d7c43fd65494c87ba5d0578"
 metafile = true
 
 [[files]]
+file = "mods/amecs-reborn.pw.toml"
+hash = "d823dd928b679c2098fb95d19e1df8420015beebf1b6b565c65add89995b3ab1"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -272,6 +277,11 @@ hash = "91944a7c8fc213249abd62910eebe8b5ad803436d2703df574281e54e1dbd0a9"
 metafile = true
 
 [[files]]
+file = "mods/critters-and-companions.pw.toml"
+hash = "7739bdf2043bb4905a52c1832f906cc0d85806901d9ea1b8769bbb70145e2f48"
+metafile = true
+
+[[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
@@ -404,11 +414,6 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
-metafile = true
-
-[[files]]
-file = "mods/every-compat.pw.toml"
-hash = "eb4979620b2be5307bd3e8476f60b6db74af5c72fe1c27d401f85655f47d64ed"
 metafile = true
 
 [[files]]
