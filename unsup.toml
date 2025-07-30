@@ -56,17 +56,14 @@ id = "journeymap"
 name = "Journeymap [preferred]"
 [[flavor_groups.maps.choices]]
 id = "xaeros"
-name = "Xaero's World Map"
-[[flavor_groups.maps.choices]]
-id = "xaerosall"
-name = "Xaero's World Map + Minimap"
+name = "Xaero's"
 
 [metafile.journeymap]
 flavors = "journeymap"
 [metafile.xaeros-world-map]
-flavors = [ "xaeros", "xaerosall" ]
+flavors = "xaeros"
 [metafile.xaeros-minimap]
-flavors = [ "xaerosall" ]
+flavors = "xaeros"
 
 
 [flavor_groups.animation]
