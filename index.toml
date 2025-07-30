@@ -547,6 +547,11 @@ hash = "6e212e9056ddaf5dda18ff6a243c118b1cf839a8ba42b999c594f85751896a33"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "184c5b7f76a47f339f1dcfb8a77e21b4fe0949a0c4a9f3e18ab3ad80af336cb5"
+metafile = true
+
+[[files]]
 file = "mods/kawaii-dishes.pw.toml"
 hash = "bfc7d781c166b5c3fe7d25df8043175700df19b9ac7a391722ea6ebfcbf30d3a"
 metafile = true
@@ -1059,6 +1064,16 @@ metafile = true
 [[files]]
 file = "mods/wyd.pw.toml"
 hash = "a3957ea45706c2a20b0028c242c68e9fbe5529f9af8f0e6787ba6ba36e9a50d0"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "745e9e9a29f81b00070fa39bc86c543d39b54e1e4786f8353bb51351f06667ad"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "930c62a2d832d9b9dac1637a89265415007eba0033e84cbc1b9b80bd6f483554"
 metafile = true
 
 [[files]]

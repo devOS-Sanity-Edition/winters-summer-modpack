@@ -47,6 +47,28 @@ flavors = "ui_fix"
 flavors = "ui_fix"
 
 
+[flavor_groups.maps]
+name = "Map Mods"
+description = "What fullscreen map mod would you like to use today?"
+side = "client"
+[[flavor_groups.maps.choices]]
+id = "journeymap"
+name = "Journeymap [preferred]"
+[[flavor_groups.maps.choices]]
+id = "xaeros"
+name = "Xaero's World Map"
+[[flavor_groups.maps.choices]]
+id = "xaerosall"
+name = "Xaero's World Map + Minimap"
+
+[metafile.journeymap]
+flavors = "journeymap"
+[metafile.xaeros-world-map]
+flavors = [ "xaeros", "xaerosall" ]
+[metafile.xaeros-minimap]
+flavors = [ "xaerosall" ]
+
+
 [flavor_groups.animation]
 name = "Animation Mods"
 description = "Add a little extra liveliness to your gameplay (Falling Leaves, Not Enough Animations)."
