@@ -267,6 +267,11 @@ hash = "3893f6af48ca828414b4abb2a1f42d08403477359b09836744016439cf8434d3"
 metafile = true
 
 [[files]]
+file = "mods/crash-pipe.pw.toml"
+hash = "98e1ae35f3dbace1a81f621b7cece54772a200d846dc29d30927a9845f23d604"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
