@@ -56,16 +56,22 @@ name = "UI Fixes"
 description = "Fixes some weirdness with Minecraft's UI (Centered Crosshair, Raised)."
 side = "client"
 [[flavor_groups.ui_fix.choices]]
-id = "ui_fix"
-name = "Yes"
-[[flavor_groups.ui_fix.choices]]
 id = "ui_fixno"
 name = "No"
+[[flavor_groups.ui_fix.choices]]
+id = "centeredcrosshair"
+name = "Centered Crosshair"
+[[flavor_groups.ui_fix.choices]]
+id = "raised"
+name = "Raised"
+[[flavor_groups.ui_fix.choices]]
+id = "ui_fixboth"
+name = "Both"
 
 [metafile.centered-crosshair]
-flavors = "ui_fix"
+flavors = [ "centeredcrosshair", "ui_fixboth" ]
 [metafile.raised]
-flavors = "ui_fix"
+flavors = [ "raised", "ui_fixboth" ]
 
 
 [flavor_groups.maps]
