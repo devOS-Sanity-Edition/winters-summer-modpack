@@ -301,11 +301,6 @@ hash = "91944a7c8fc213249abd62910eebe8b5ad803436d2703df574281e54e1dbd0a9"
 metafile = true
 
 [[files]]
-file = "mods/critters-and-companions.pw.toml"
-hash = "7739bdf2043bb4905a52c1832f906cc0d85806901d9ea1b8769bbb70145e2f48"
-metafile = true
-
-[[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
