@@ -616,6 +616,11 @@ hash = "1c142b3c08504ed1606f340a576a7f1dda6c0d550ac9cac197ef499e9d5354af"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "fa01d0d1b480410d3b46647b676849a7c266a9a9c0fdf444cbf80eb56a559d92"
 metafile = true
@@ -958,6 +963,11 @@ metafile = true
 [[files]]
 file = "mods/sseds.pw.toml"
 hash = "c4fe5eb6d87481ad059831d3566c340c28850f10a67263a30a9dbe4ae34f4c3c"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
