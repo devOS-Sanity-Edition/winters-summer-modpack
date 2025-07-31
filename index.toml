@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "ba5c3f46736bdb93afcfb86134f559e8e2f8161c58105eb15b799578b477d36c"
+hash = "47879af305a9ee6ee0c17cb616a12d6c18ed977b7b36753a39790c24a18f9127"
 metafile = true
 
 [[files]]
@@ -642,12 +642,12 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "bf3044420b1c0076db4afe2d955e8c6762b8912ec5b0271e8040e8e7371447d4"
+hash = "ff3de412172c6d98617dbf9e0ba1218f9c40daf4701c3c43c3f7d3b69b87ff73"
 metafile = true
 
 [[files]]
 file = "mods/more-delight.pw.toml"
-hash = "b220657b999e9c1243556d05e170819e71e8329014adb50e8eaab9c1132fa815"
+hash = "f1a7bff7a5ed9e9f88a02786b33737a99852a5e4f5e6c05b6269a63daf9f1e72"
 metafile = true
 
 [[files]]
@@ -817,7 +817,7 @@ metafile = true
 
 [[files]]
 file = "mods/rearm.pw.toml"
-hash = "ed4c8526264cf7b19fbe8dc83803aa536d5a033fcecec890c4a8ffcbb7b3cc3b"
+hash = "55487d8965163595efa45d23b483fb7b28a1cfc0a759b31d6c90bc28e9d40282"
 metafile = true
 
 [[files]]
@@ -837,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "62d5c7f15cfebc9f4b29beddf20e9ab09361f60e2fd06bcf6402f96c3b8b6661"
+hash = "01cb22f0ac8009b9d08a218682d1728873d661eb0394a801c2040802d873b142"
 metafile = true
 
 [[files]]
@@ -957,7 +957,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "08b9cd878c5201b709e991201c4fa1e5e4bd2de42a911cd8b61a38cad319c0a3"
+hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
@@ -966,8 +966,9 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
-file = "mods/spirit-vector-1.11.5-patched+1.21.1.jar"
-hash = "5acb20091c319f1eb5492c854878c4ef48149af03fed9c4176114c29a801cfae"
+file = "mods/spirit-vector.pw.toml"
+hash = "91d345d55d027fa1c9f409f5253e319cffa7f16524aea46ce36656271c0698bf"
+metafile = true
 
 [[files]]
 file = "mods/splinecart.pw.toml"
@@ -996,7 +997,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "7f9f8bb60319bf9284dabefa07d8e0b92b393cfe3ae3cff66d099eea0028291a"
+hash = "6f0aeb65b2a72be9f4dcb7eb25fd8ddfd87d1bfed19a9b2edc1fd8a4b89d81e3"
 metafile = true
 
 [[files]]
