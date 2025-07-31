@@ -951,11 +951,6 @@ hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
-file = "mods/spirit-vector.pw.toml"
-hash = "144ed03877c00d04657f4248234369910346c6b7d186f7e36adc9a88fd22a23d"
-metafile = true
-
-[[files]]
 file = "mods/splinecart.pw.toml"
 hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
 metafile = true
