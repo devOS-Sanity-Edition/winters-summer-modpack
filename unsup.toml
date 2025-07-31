@@ -1,3 +1,24 @@
+[flavor_groups.shaders]
+name = "Shaders"
+description = "Allows Shaders to be used to make the game look prettier [Will install Iris, Euphoria Patches, Colorwheel, and Colorwheel Patcher]"
+side = "client"
+[[flavor_groups.shaders.choices]]
+id = "shaderlessbehavior"
+name = "No"
+[[flavor_groups.shaders.choices]]
+id = "shaderedbehavior"
+name = "Yes"
+
+[metafile.colorwheel]
+flavors = "shaderedbehavior"
+[metafile.colorwheel-patcher]
+flavors = "shaderedbehavior"
+[metafile.euphoria-patches]
+flavors = "shaderedbehavior"
+[metafile.iris]
+flavors = "shaderedbehavior"
+
+
 [flavor_groups.drpc]
 name = "CraftPresence / Discord Rich Presence"
 description = "Shows in Discord the pack you're playing and its status"

@@ -246,6 +246,16 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "71782b966025a1e84f17ddee698a27baa94d8379520789eaa3462a4c004eccc6"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "da8850986860f73c05fe3c522959ed58f4cbd0303b691983158883fb8efc252d"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "55176d940577a671525a837cb9db04380a0d3339f2b93314d5df9001653347f9"
 metafile = true
@@ -1167,4 +1177,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "8830f75b8c04da5b912e1a1fc817a1539048162084f51cf257b93f28315f840c"
+hash = "364854ba0e5270d4a1cf25c39ca448d287249a2ec2e0c443b59dd2d688f31619"
