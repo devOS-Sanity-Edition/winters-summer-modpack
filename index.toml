@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "6a38732ce7ccedc6b1715c4a01a1589620546d41f19562149cccdd6847a7b13d"
+hash = "ab1783920361634066ec8dafb8ab8d0c0d01ec873c47e716db1e5b34080f8c85"
 metafile = true
 
 [[files]]
@@ -1106,23 +1106,18 @@ hash = "b378907ce549ea5d45b71629cbb7ac40a1c2a53e8c27c579b82fe47595490d4c"
 metafile = true
 
 [[files]]
-file = "mods/winters-summer-fixes.pw.toml"
-hash = "62d7e3893db818d7fed0fa611e34900e37ec84623df6f76afbdb903556816c92"
-metafile = true
-
-[[files]]
 file = "mods/wyd.pw.toml"
 hash = "a3957ea45706c2a20b0028c242c68e9fbe5529f9af8f0e6787ba6ba36e9a50d0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "745e9e9a29f81b00070fa39bc86c543d39b54e1e4786f8353bb51351f06667ad"
+hash = "8f391603f2b1aaf63717c180e82635b7cd2d57617c02edac60f9d25244731df1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "930c62a2d832d9b9dac1637a89265415007eba0033e84cbc1b9b80bd6f483554"
+hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
 
 [[files]]
