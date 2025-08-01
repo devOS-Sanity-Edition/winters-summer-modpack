@@ -1106,6 +1106,11 @@ hash = "b378907ce549ea5d45b71629cbb7ac40a1c2a53e8c27c579b82fe47595490d4c"
 metafile = true
 
 [[files]]
+file = "mods/winters-summer-fixes.pw.toml"
+hash = "4078faecfe90198c2de6c048251aaef7c798bd0d3d12caf892f9504642bcf892"
+metafile = true
+
+[[files]]
 file = "mods/wyd.pw.toml"
 hash = "a3957ea45706c2a20b0028c242c68e9fbe5529f9af8f0e6787ba6ba36e9a50d0"
 metafile = true
