@@ -77,7 +77,7 @@ flavors = [ "raised", "ui_fixboth" ]
 [flavor_groups.maps]
 name = "Map Mods"
 description = "What fullscreen map mod would you like to use today?"
-side = "both"
+side = "client"
 [[flavor_groups.maps.choices]]
 id = "journeymap"
 name = "Journeymap [preferred]"
