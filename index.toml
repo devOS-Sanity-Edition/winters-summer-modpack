@@ -1107,7 +1107,7 @@ metafile = true
 
 [[files]]
 file = "mods/winters-summer-fixes.pw.toml"
-hash = "4078faecfe90198c2de6c048251aaef7c798bd0d3d12caf892f9504642bcf892"
+hash = "62d7e3893db818d7fed0fa611e34900e37ec84623df6f76afbdb903556816c92"
 metafile = true
 
 [[files]]
