@@ -97,6 +97,10 @@ file = "config/yosbr/options.txt"
 hash = "bee19c690f9ef907eddc01921e8a46e09995796440dd28a93de37387ba6cb11d"
 
 [[files]]
+file = "mods/MekanismWorldGen-1.0-SNAPSHOT.jar"
+hash = "e2711283359b07f85897610dbbcda591aebc04359e4d2944813163745cda30c7"
+
+[[files]]
 file = "mods/Powah-5.1.0.jar"
 hash = "b36002f1aec1d858ca93252d1596610988327fdca46bc53c98f5b5797f6f2710"
 
@@ -752,16 +756,6 @@ metafile = true
 [[files]]
 file = "mods/polydex.pw.toml"
 hash = "90ef020e1c91c39b865b31c54e777aadff8de423bd1fe31db0df3f2c611acd20"
-metafile = true
-
-[[files]]
-file = "mods/polyfactory.pw.toml"
-hash = "c09e7849301c02a155590322a2c83187e395ab63c976b9da7a664cd55e1ddb91"
-metafile = true
-
-[[files]]
-file = "mods/polymer.pw.toml"
-hash = "62df1cb449d5c6f8c5d670f14819a106a451e88102b8b066efeb73951f058d30"
 metafile = true
 
 [[files]]
