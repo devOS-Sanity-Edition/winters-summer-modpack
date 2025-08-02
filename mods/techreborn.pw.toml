@@ -1,0 +1,9 @@
+name = "Tech Reborn"
+filename = "TechReborn-5.11.19.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TechReborn/TechReborn/releases/download/5.11.19/TechReborn-5.11.19.jar"
+
+hash-format = "sha256"
+hash = "bf65a8c52037ccd0b39dd9aa06209e28d774ab876e4381bcbb0ae8289a706e55"

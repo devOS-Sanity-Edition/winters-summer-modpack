@@ -1,0 +1,9 @@
+name = "Reborn Core"
+filename = "RebornCore-5.11.19.jar"
+side = "both"
+
+[download]
+url = "https://github.com/TechReborn/TechReborn/releases/download/5.11.19/RebornCore-5.11.19.jar"
+
+hash-format = "sha256"
+hash = "b75999a83510caa9566fbd5fc1735d870ccf5dc9e62d43fed86d75014eb1075b"
