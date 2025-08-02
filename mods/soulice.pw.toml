@@ -1,13 +1,13 @@
 name = "Soul Ice"
-filename = "soul_ice-fabric-1.21.1-3.0.0-alpha.1.jar"
+filename = "soul_ice-fabric-1.21.1-3.0.0-alpha.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ngBlYV53/versions/BkCRcS0V/soul_ice-fabric-1.21.1-3.0.0-alpha.1.jar"
+url = "https://cdn.modrinth.com/data/ngBlYV53/versions/nGocSWiu/soul_ice-fabric-1.21.1-3.0.0-alpha.2.jar"
 hash-format = "sha512"
-hash = "d4d40d4716b00029c3275f936d6ebdaf8312b85dc0b0b9ebe6fbf0875e733a3481b2f8381893b3186ad11b252bc142bcfdc732adde8f5ba59941b35ab9104b82"
+hash = "65f0c7eb9b346c12801b014f2965ea770bb3f47662ba5c259b3378046474dae29adee2fc855160e15dbd3fbb50dc539f32d7460b7e3cc0bd376421fddf19fbe8"
 
 [update]
 [update.modrinth]
 mod-id = "ngBlYV53"
-version = "BkCRcS0V"
+version = "nGocSWiu"
