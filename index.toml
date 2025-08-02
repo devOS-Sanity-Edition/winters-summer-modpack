@@ -971,11 +971,6 @@ hash = "91d345d55d027fa1c9f409f5253e319cffa7f16524aea46ce36656271c0698bf"
 metafile = true
 
 [[files]]
-file = "mods/splinecart.pw.toml"
-hash = "66f3e982c29d4204afc8593f050f3fe3478f286b639e1404bbdb64bda3ad0406"
-metafile = true
-
-[[files]]
 file = "mods/sseds.pw.toml"
 hash = "c4fe5eb6d87481ad059831d3566c340c28850f10a67263a30a9dbe4ae34f4c3c"
 metafile = true
