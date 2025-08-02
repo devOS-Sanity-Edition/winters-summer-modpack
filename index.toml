@@ -216,9 +216,8 @@ hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "f583de4c5ee2d0de4ded1d98960f70d098faae4ad529e854d46ab62bfc67bc1e"
-metafile = true
+file = "mods/cc-tweaked-1.21.1-fabric-1.116.1.jar"
+hash = "37da1b56880de7910b899108ee1b1cc05c27f96f2f0e45af87786fcc7c27b6b1"
 
 [[files]]
 file = "mods/centered-crosshair.pw.toml"
