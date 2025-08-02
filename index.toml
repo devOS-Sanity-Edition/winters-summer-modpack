@@ -185,11 +185,6 @@ hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
 metafile = true
 
 [[files]]
-file = "mods/bluemap-polymer-patch.pw.toml"
-hash = "978266c4bfbfff4cfde89584654d17cb7a8feae03b871df02860d3fc4868a5ff"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "0fab2a26e6692d71537da9565dd87137504ddb34653136fd9f7a7df084d47575"
 metafile = true
