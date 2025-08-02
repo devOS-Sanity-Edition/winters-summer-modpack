@@ -809,11 +809,6 @@ hash = "55487d8965163595efa45d23b483fb7b28a1cfc0a759b31d6c90bc28e9d40282"
 metafile = true
 
 [[files]]
-file = "mods/reborncore.pw.toml"
-hash = "5aa90bc90bcd794dcd33e97591b6a17b7b99227811bd16520b4fb6ad1925964c"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -1006,11 +1001,6 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "fcd92853a728b92cc82d6de0adcb42b0463c6825069e30a07c707fc571dc119a"
-metafile = true
-
-[[files]]
-file = "mods/techreborn.pw.toml"
-hash = "21a9effebe0f1519b1c6bcb9b2acffe2082f09a252a798a26ee93dd34518221c"
 metafile = true
 
 [[files]]
