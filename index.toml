@@ -460,7 +460,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
+hash = "ad4e8689c50fedd770fb5cf28561edbd41f6b483bcfd6e3dd3d0c337789c0110"
 metafile = true
 
 [[files]]
@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "54831cd8f8bdb7eaba6af48e2471f7ce1cd4987a5fb6fd70452c9b09f9d5ce7f"
+hash = "9c74cc6556161393d1dd734b483a6f212a7032e97fad8f40a6e2834d0ab1baba"
 metafile = true
 
 [[files]]
@@ -985,7 +985,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "6f0aeb65b2a72be9f4dcb7eb25fd8ddfd87d1bfed19a9b2edc1fd8a4b89d81e3"
+hash = "d1ee4deb79a817c6d49ff442421cf40d7c404f4043c2ce77d8861395a19a688e"
 metafile = true
 
 [[files]]
