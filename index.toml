@@ -879,6 +879,11 @@ hash = "509a129f843e72b23f7269fb940bbd757a78716d6f2350f33ebe751c40bb77f8"
 metafile = true
 
 [[files]]
+file = "mods/sheared.pw.toml"
+hash = "450bbfdc5eb964ae693b559a9f67a41ec7929b1f54c81926f34378ea92cfd360"
+metafile = true
+
+[[files]]
 file = "mods/silk.pw.toml"
 hash = "90d1f4ee70f4b208b623af04b48be8fd5b98b411cbd4d9d0a5b23d07ba99c1e4"
 metafile = true

@@ -1,0 +1,9 @@
+name = "Sheared"
+filename = "sheared-1.0.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://github.com/devOS-Sanity-Edition/Sheared/releases/download/v1.0.0/sheared-1.0.0+1.21.1.jar"
+
+hash-format = "sha256"
+hash = "6fd6c4fd5e3d584eff0fb655a24c81d70f432ce3cd27d442425e2d2133991f9c"
