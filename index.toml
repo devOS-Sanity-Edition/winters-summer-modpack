@@ -294,8 +294,8 @@ hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
 
 [[files]]
-file = "mods/create-fucked-up-1.21.1-6.0.6.jar"
-hash = "3679317d61fa6f1925649346c73824e3914416e4ad0c9b6dae5c1729177c7c2e"
+file = "mods/create-fucked-up-1.21.1-6.0.6+80c8656ba-modified.jar"
+hash = "a5007ca0df1276d46eff020b331a29f920cdff4058275609537b1d5f3f549fc4"
 
 [[files]]
 file = "mods/creeper-multidrop.pw.toml"
@@ -618,6 +618,11 @@ hash = "8849846cf76b0bda5450c74579eb26935ab44f941d41728e0374253de82633ba"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
+metafile = true
+
+[[files]]
 file = "mods/magic-8-ball.pw.toml"
 hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
@@ -670,11 +675,6 @@ metafile = true
 [[files]]
 file = "mods/multi-key-bindings.pw.toml"
 hash = "0b07fb47dbde7120103a707336d555f1952eaddc22db769bedbba0cfd9300aa1"
-metafile = true
-
-[[files]]
-file = "mods/music-maker-mod.pw.toml"
-hash = "7c7c332502a1e7aefedab9ba9b7db02e5de5e45b9215b2dc878cfa61eb226f48"
 metafile = true
 
 [[files]]
@@ -1033,6 +1033,11 @@ hash = "d5ce49b7c018416ff99630dc5e2bf1a225dda3991c49231e2cf6596c47da3c88"
 metafile = true
 
 [[files]]
+file = "mods/templates-2.pw.toml"
+hash = "55de3aa867841af02dc02b83983de55917f99237a6def88736bb556903aad5ad"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
 metafile = true
@@ -1121,6 +1126,10 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "58eb7f330c8e2158385fda1a391b1a93faf36459f8d25ccb482e26ce885deb5e"
 metafile = true
+
+[[files]]
+file = "mods/xercamusic-1.21.1-1.0.1-patched.jar"
+hash = "ed06bbd5c54c52d52be38652d17d28076efac5920a5111ad663c9ac8658d0e65"
 
 [[files]]
 file = "mods/yacl.pw.toml"
