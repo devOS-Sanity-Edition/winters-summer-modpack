@@ -110,11 +110,6 @@ hash = "7d42a851748916958c8c3081f203e6ded630d3ad5a887b06b3013192fc90a554"
 metafile = true
 
 [[files]]
-file = "mods/afkplus.pw.toml"
-hash = "18a5318eb5ec90a017e7b62a04363e6968cea77dbca914af37b731f212bf3724"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "ab1783920361634066ec8dafb8ab8d0c0d01ec873c47e716db1e5b34080f8c85"
 metafile = true
