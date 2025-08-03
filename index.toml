@@ -294,6 +294,10 @@ hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
 
 [[files]]
+file = "mods/create-fucked-up-1.21.1-6.0.6.jar"
+hash = "2bf3b891d6829e427795193286c23343d67085a88db473af2d67df12c382ab44"
+
+[[files]]
 file = "mods/creeper-multidrop.pw.toml"
 hash = "91944a7c8fc213249abd62910eebe8b5ad803436d2703df574281e54e1dbd0a9"
 metafile = true
@@ -945,7 +949,7 @@ metafile = true
 
 [[files]]
 file = "mods/soulice.pw.toml"
-hash = "cdc3b7a13005e709cc971ca84a7a2217db9ff96e4a987bdde109d968dd760c31"
+hash = "6d2d0b47daf29a257de342e31f4d0573b904dad90948fe6257831d1ca87c16ca"
 metafile = true
 
 [[files]]
