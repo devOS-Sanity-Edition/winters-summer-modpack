@@ -125,11 +125,6 @@ hash = "aab6fe3f139352ee01a87135cf2e6fdc3e1429fa4d7c43fd65494c87ba5d0578"
 metafile = true
 
 [[files]]
-file = "mods/amecs-reborn.pw.toml"
-hash = "d823dd928b679c2098fb95d19e1df8420015beebf1b6b565c65add89995b3ab1"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
