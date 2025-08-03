@@ -145,6 +145,11 @@ hash = "93f989575eec26f333d4253f1af961983ba4d5179e1c3237b643836b40614a43"
 metafile = true
 
 [[files]]
+file = "mods/auto-sprint-fix.pw.toml"
+hash = "93624c1e04b505cac45e5b04cf9b02537d01a25eba040e1c58486990c65f92b1"
+metafile = true
+
+[[files]]
 file = "mods/automobility.pw.toml"
 hash = "1df383137d9ebafa5313df989f2ead4f398a444574eac72a9608f8d425c54b62"
 metafile = true
