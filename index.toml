@@ -110,6 +110,11 @@ hash = "7d42a851748916958c8c3081f203e6ded630d3ad5a887b06b3013192fc90a554"
 metafile = true
 
 [[files]]
+file = "mods/afkplus.pw.toml"
+hash = "18a5318eb5ec90a017e7b62a04363e6968cea77dbca914af37b731f212bf3724"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "ab1783920361634066ec8dafb8ab8d0c0d01ec873c47e716db1e5b34080f8c85"
 metafile = true
@@ -294,8 +299,8 @@ hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
 
 [[files]]
-file = "mods/create-fucked-up-1.21.1-6.0.6+80c8656ba-modified.jar"
-hash = "a5007ca0df1276d46eff020b331a29f920cdff4058275609537b1d5f3f549fc4"
+file = "mods/create-fucked-up-1.21.1-6.0.6+1dd283bba.jar"
+hash = "8a706468a430a9eb342da7480ac6edbd5340931f6fd795396c8d502f58e73ee1"
 
 [[files]]
 file = "mods/creeper-multidrop.pw.toml"
