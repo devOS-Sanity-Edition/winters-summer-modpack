@@ -753,6 +753,11 @@ hash = "90ef020e1c91c39b865b31c54e777aadff8de423bd1fe31db0df3f2c611acd20"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8a64fdd5384cd26c91475a423f3bec24dd4d98796df7683a5070ef105d421ba4"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
