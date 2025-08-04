@@ -299,8 +299,8 @@ hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
 metafile = true
 
 [[files]]
-file = "mods/create-fucked-up-1.21.1-6.0.6+3ffd68d39.jar"
-hash = "94f55789cf100bbec97455f45d9c0c983c13e56b3faba51b72133fcd1448eec9"
+file = "mods/create-fucked-up-1.21.1-6.0.6+fd674e0ec-modified.jar"
+hash = "f78020ec545ccea57f1f51240fbab952236b71d738ecb17fa9b944de33894577"
 
 [[files]]
 file = "mods/creeper-multidrop.pw.toml"
