@@ -1,13 +1,13 @@
 name = "Wandering Wizardry"
-filename = "wwizardry-1.1.16+mc.1.21.1-fabric.jar"
+filename = "wwizardry-1.1.18+mc.1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6eWropFc/versions/kEmwCfUU/wwizardry-1.1.16%2Bmc.1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/6eWropFc/versions/UATnaiHO/wwizardry-1.1.18%2Bmc.1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "0dacaed8363594e7f8a25cb6961d9863e6a04a00f16d8dfd7f7fd51efc06e8a3d904d3a794927017890c62aa520c03b75bcea077f407fd1557c231d1741ab48a"
+hash = "7cb12a8002d2e8d56725b90e97635cef086b02f231b23c22e880c8faee238d103a52e265aacc4468c40d5a479e6117181067fbb6fecba67d89fb31d28749ae93"
 
 [update]
 [update.modrinth]
 mod-id = "6eWropFc"
-version = "kEmwCfUU"
+version = "UATnaiHO"

@@ -999,7 +999,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "d1ee4deb79a817c6d49ff442421cf40d7c404f4043c2ce77d8861395a19a688e"
+hash = "34cea0daa93cb791c733ff56983d8e7d1046367603c253f50ab6a7ac20862fce"
 metafile = true
 
 [[files]]
@@ -1119,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "b378907ce549ea5d45b71629cbb7ac40a1c2a53e8c27c579b82fe47595490d4c"
+hash = "4a2c21ac4c18716220f234e44b4da01a9851578ce8ab86ae5296a3dceaa88ded"
 metafile = true
 
 [[files]]
