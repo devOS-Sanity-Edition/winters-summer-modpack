@@ -1,15 +1,15 @@
 name = "Grappling-Hook"
-filename = "limits_grapple-0.7.3-1.21.1.jar"
+filename = "limits_grapple-0.7.4-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/BluSpring/Grappling-Hook/releases/download/0.7.3-1.21.1/limits_grapple-0.7.3-1.21.1.jar"
+url = "https://github.com/BluSpring/Grappling-Hook/releases/download/0.7.4-1.21.1/limits_grapple-0.7.4-1.21.1.jar"
 hash-format = "sha256"
-hash = "d41c92bf280c2a5dcd46e006ab59954191a78c139069d53e512d071fe3d78bf4"
+hash = "ba583b8eb2eb774c527d0f42dcf71078505a1d347bbd22a47e2a509dc2cbe7b3"
 
 [update]
 [update.github]
 branch = "1.21.1"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "BluSpring/Grappling-Hook"
-tag = "0.7.3-1.21.1"
+tag = "0.7.4-1.21.1"

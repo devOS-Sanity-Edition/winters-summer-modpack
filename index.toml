@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/grappling-hook.pw.toml"
-hash = "bda92214008453ef1630b0c6d3620f98021efd5ac597307731592586e125837c"
+hash = "ef2c13e74c8ad2284e6dcf2757dec277e9db6f837f0875597c14bf36dfa17284"
 metafile = true
 
 [[files]]
