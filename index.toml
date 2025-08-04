@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ce5ecc38c8f634e1d5d4daa6b0c8e338a8349bec6d68d8e11b786f5cb5c557f0"
+hash = "699010afc3867305441c3d5b3bcdf491a7aa3614ad199b0589f368689a68859e"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3b0341c1402b0319857591a4adc876fb98360b30995e01b280d6f4cd35d59325"
+hash = "5390b58bdcd06b724b38b9ddebc1ac6a1d4da60864cf6ea66ab3974842f1f4f2"
 metafile = true
 
 [[files]]
@@ -839,7 +839,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "01cb22f0ac8009b9d08a218682d1728873d661eb0394a801c2040802d873b142"
+hash = "db028e2770f345ae16b710a5137b60e057fd0c598f5ede37c6ccefa7e705a889"
 metafile = true
 
 [[files]]
@@ -944,12 +944,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks-(unoffical-fabric-port).pw.toml"
-hash = "89dd914f2db3cd453e80599ce3520399f492629469299d2b2abd3b4a7adc19f0"
+hash = "a4eebb2bda9daccc5444b8bd2d91f4ee8ce2325dd51436cb785ca33530b98ecd"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core-(unofficial-fabric-port).pw.toml"
-hash = "141bc11a38f89ee903cab997fb50ec7946a3636dfb9824d68979092d4de412de"
+hash = "21f6c438ca8be98eaab55c85b4941c6103cd2674e6874203ef8e7c9df4356e78"
 metafile = true
 
 [[files]]
