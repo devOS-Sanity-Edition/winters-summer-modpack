@@ -244,6 +244,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+metafile = true
+
+[[files]]
 file = "mods/colorwheel-patcher.pw.toml"
 hash = "71782b966025a1e84f17ddee698a27baa94d8379520789eaa3462a4c004eccc6"
 metafile = true
@@ -1075,6 +1080,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/tt20.pw.toml"
+hash = "8f1383e1a3bf8c85331222270658608102656ab6d0d5f4274a34a6b0fc95b6db"
 metafile = true
 
 [[files]]
