@@ -1058,6 +1058,11 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
+file = "mods/title-fixer.pw.toml"
+hash = "7bf353cd8be06d410f8cbd1d392acaa65b8abe209873ad59f63715c021223ab5"
+metafile = true
+
+[[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
 metafile = true
