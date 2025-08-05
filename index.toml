@@ -718,6 +718,11 @@ hash = "b9a0323fd8316b0a359265be51499eb68b081e47aef4ac3106e86c5896d1a08a"
 metafile = true
 
 [[files]]
+file = "mods/overpoweredmending.pw.toml"
+hash = "e8363c3d566ad522cdf51d07e62a2d5ddb7fb0f34684f023668fdce4b617b848"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "4ac7c700526984d54f4b449494f027f4e9ec94d7104d660425f2ee047c580db2"
 metafile = true
