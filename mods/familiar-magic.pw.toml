@@ -1,13 +1,8 @@
 name = "familiar magic"
-filename = "familiar_magic-1.1.4.jar"
+filename = "familiar_magic-1.1.4+foxful.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/BF0Jps3E/versions/LlvJAAI0/familiar_magic-1.1.4.jar"
-hash-format = "sha512"
-hash = "182a1136fef23f0c004f8460af2aee95fc804ca52934e01b32d12349eb01e5688c84aad59b21e203b4ff9a1a33cb2f3d05cd9f08dcc74d4155bd030452e10945"
-
-[update]
-[update.modrinth]
-mod-id = "BF0Jps3E"
-version = "LlvJAAI0"
+url = "https://github.com/afamiliarquiet/familiar-magic/releases/download/v1.1.4/familiar_magic-1.1.4+foxful.jar"
+hash-format = "sha256"
+hash = "197e2de4bcf97896812823f2179a579dd7d0164dbc6614ee15666bc5bf95dcaa"
