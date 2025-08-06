@@ -197,7 +197,7 @@ flavors = "dynamiclights"
 
 [flavor_groups.nvidium]
 name = "Nvidium"
-description = "Fast nvidia only rendering engine for sodium."
+description = "Fast Nvidia only rendering engine for Sodium."
 side = "client"
 [[flavor_groups.nvidium.choices]]
 id = "nvidiumno"

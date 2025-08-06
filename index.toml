@@ -978,9 +978,8 @@ hash = "7207bcd8319f1e4b89806c7f909c87acdd3a5f96e5917d859ff704df8ff9a229"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
-metafile = true
+file = "mods/spark-1.10.113-fabric.jar"
+hash = "7201c884672d16b809da78541002207db828271081c51ed373805c4bc60e3760"
 
 [[files]]
 file = "mods/spirit-vector.pw.toml"
@@ -1218,4 +1217,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "32a3fe4ab2676ef6b21b2c9066fd92045b45bea1d68c0ad2fbd23edfb5cae227"
+hash = "83e9947bb7357c2de2a85f26ce39586eecb228423edee48c221248af889149c5"
