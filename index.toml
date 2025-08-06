@@ -279,6 +279,11 @@ hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
+hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
+metafile = true
+
+[[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "4b134bf893f9a368518eb9e2aed4f3f79e51d381cf811f9c61a805f6d0733cae"
 metafile = true
@@ -385,6 +390,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "af20b5dd7a7826fd428edec189e5c657c9119bd1ddb799fa78b102b8fe6a980c"
 metafile = true
 
 [[files]]
@@ -1065,6 +1075,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "e7fb50c414be7b21604eaf00bc95b3b7f939430e77521d2dfc119ea11857d31b"
 metafile = true
 
 [[files]]
