@@ -1078,11 +1078,6 @@ hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
 metafile = true
 
 [[files]]
-file = "mods/torchmaster.pw.toml"
-hash = "e7fb50c414be7b21604eaf00bc95b3b7f939430e77521d2dfc119ea11857d31b"
-metafile = true
-
-[[files]]
 file = "mods/transferable-pets.pw.toml"
 hash = "7d9348592d8295be66e2bdc533796d5ec018b762d1cd57a1778047846cc347bf"
 metafile = true
