@@ -1119,12 +1119,12 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "4a2c21ac4c18716220f234e44b4da01a9851578ce8ab86ae5296a3dceaa88ded"
+hash = "becff969eafab4feccffc4f2ce7e378ee7c503b5ccb846024082152a6554b547"
 metafile = true
 
 [[files]]
 file = "mods/winters-summer-fixes.pw.toml"
-hash = "689ef335865e43327b479b09e800d06b880f0dc336dc21ab46f1988cfa0add95"
+hash = "1ea5f189743afbe2727558db9be29e5b6fe78ed218e17f672e4a04ec1be5dea0"
 metafile = true
 
 [[files]]

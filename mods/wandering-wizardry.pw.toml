@@ -1,13 +1,15 @@
-name = "Wandering Wizardry"
-filename = "wwizardry-1.1.18+mc.1.21.1-fabric.jar"
+name = "Wandering-Wizardry"
+filename = "wwizardry-1.2.0+alpha.1+mc.1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6eWropFc/versions/UATnaiHO/wwizardry-1.1.18%2Bmc.1.21.1-fabric.jar"
-hash-format = "sha512"
-hash = "7cb12a8002d2e8d56725b90e97635cef086b02f231b23c22e880c8faee238d103a52e265aacc4468c40d5a479e6117181067fbb6fecba67d89fb31d28749ae93"
+url = "https://github.com/Sweet-Berry-Collective/Wandering-Wizardry/releases/download/1.2.0%2Balpha.1/wwizardry-1.2.0%2Balpha.1%2Bmc.1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "975b66e58e6c5ee3d440749c444af145122a9b57abf3d82b94fe35d974d902b1"
 
 [update]
-[update.modrinth]
-mod-id = "6eWropFc"
-version = "UATnaiHO"
+[update.github]
+branch = "1.21"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Sweet-Berry-Collective/Wandering-Wizardry"
+tag = "1.2.0+alpha.1"

@@ -1,15 +1,15 @@
 name = "winters-summer-fixes"
-filename = "winters-summer-fixes-1.0.2+rev.8f776da.jar"
+filename = "winters-summer-fixes-1.0.3+rev.0c9b420.jar"
 side = "both"
 
 [download]
-url = "https://github.com/devOS-Sanity-Edition/winters-summer-fixes/releases/download/v1.0.2/winters-summer-fixes-1.0.2%2Brev.8f776da.jar"
+url = "https://github.com/devOS-Sanity-Edition/winters-summer-fixes/releases/download/v1.0.3/winters-summer-fixes-1.0.3%2Brev.0c9b420.jar"
 hash-format = "sha256"
-hash = "e050c709e97873da1f2698f5ce50124de8881c86022d4c606633d35e78310f20"
+hash = "825b80f416d79862fe44faa4c575f25485cc313651ef21a6cf018b35dd793298"
 
 [update]
 [update.github]
 branch = "kt/1.21.1/main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "devOS-Sanity-Edition/winters-summer-fixes"
-tag = "v1.0.2"
+tag = "v1.0.3"
