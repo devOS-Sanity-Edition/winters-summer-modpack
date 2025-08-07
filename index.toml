@@ -638,6 +638,11 @@ hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
 
 [[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "6c98ddf47176513add049af8d4ddd8a0c01dd31a9093fac6ff823167a3a96e22"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "1c142b3c08504ed1606f340a576a7f1dda6c0d550ac9cac197ef499e9d5354af"
 metafile = true
@@ -920,6 +925,11 @@ metafile = true
 [[files]]
 file = "mods/simple-music-control.pw.toml"
 hash = "dee5e7633b41381ca78cd24d4f16cdc3de3a92fa41bd1c8369121867a33177f5"
+metafile = true
+
+[[files]]
+file = "mods/simple-uncrafting-table.pw.toml"
+hash = "5896530c60f1f8c4ff3f1240f98a84f69b23849f73ea665feadcc0d17d958156"
 metafile = true
 
 [[files]]
