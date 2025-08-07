@@ -1,0 +1,13 @@
+name = "Coxinha Utilities"
+filename = "coxinhautilities-1.5+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NXqpbY3F/versions/sA7yfuxn/coxinhautilities-1.5%2B1.21.jar"
+hash-format = "sha512"
+hash = "430264f332aff865d170384079fe22e78628d584224e6cff7a88139df4a99f0ae1d96a7aae1cd46266e9901fb7c26b2e9ea0bd6880b9befe03974aff22eb9835"
+
+[update]
+[update.modrinth]
+mod-id = "NXqpbY3F"
+version = "sA7yfuxn"
