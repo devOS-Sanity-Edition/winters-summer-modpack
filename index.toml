@@ -643,6 +643,11 @@ hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "175ad5fb2b745bc81844daf0f994f1bcb3180b0929204cbd31417ad9a5b82645"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "1c142b3c08504ed1606f340a576a7f1dda6c0d550ac9cac197ef499e9d5354af"
 metafile = true
@@ -790,6 +795,11 @@ metafile = true
 [[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
 hash = "393157469fcbe7c5c797433c204f4431f733a3ce26468793bc44c4cfff4b65fd"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
 metafile = true
 
 [[files]]
@@ -1138,7 +1148,7 @@ metafile = true
 
 [[files]]
 file = "mods/winters-summer-fixes.pw.toml"
-hash = "1ea5f189743afbe2727558db9be29e5b6fe78ed218e17f672e4a04ec1be5dea0"
+hash = "c819750240f91169e6fb96cb8f24397d2c7febb9454592b9950363142c618152"
 metafile = true
 
 [[files]]
