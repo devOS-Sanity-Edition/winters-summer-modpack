@@ -578,6 +578,11 @@ hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "80858e1b1477432110b72aab33348635139d6e8fe7bc05db3ba00651de635720"
 metafile = true
@@ -1227,4 +1232,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "83e9947bb7357c2de2a85f26ce39586eecb228423edee48c221248af889149c5"
+hash = "dbe580a1e1eb7106e0e7e751a2a157a592703f13d525d2581c1e3849f2a60069"
