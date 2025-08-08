@@ -223,8 +223,6 @@ name = "No"
 
 [metafile.jade]
 flavors = "jade"
-[metafile.jade-addons-fabric]
-flavors = "jade"
 
 
 [flavor_groups.zoom]

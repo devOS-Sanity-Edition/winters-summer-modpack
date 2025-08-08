@@ -1,15 +1,15 @@
 name = "duely"
-filename = "duely-1.0.1.jar"
+filename = "duely-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Oliver-makes-code/duely/releases/download/1.0.1/duely-1.0.1.jar"
+url = "https://github.com/Oliver-makes-code/duely/releases/download/1.0.2/duely-1.0.2.jar"
 hash-format = "sha256"
-hash = "30663d228fec0af8f719591e17ec264ccccaaf4eac93344d3ca0917560c4e61b"
+hash = "22d75f48172ed324b4264e518d1974a362d095a94e348f3f611ef4f85f46ae4b"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Oliver-makes-code/duely"
-tag = "1.0.1"
+tag = "1.0.2"

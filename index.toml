@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "93a630545090420997588464bd281ae7b38a3eff80e203fbd065b548407748a1"
+hash = "c390e2533e854690085d2a455d192e22817532f8e1400f498f4312ee5dfdda50"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "3893f6af48ca828414b4abb2a1f42d08403477359b09836744016439cf8434d3"
+hash = "25dcc66de1fd3e6950393d982c78f0e8ab3966bfa7201c5d976f72f8b49c1cb1"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/duely.pw.toml"
-hash = "014c0f122c5a51f1f9d87e5a610a4732ce41a0b564b86da1593b4c86d0313f6e"
+hash = "d040c8ce350c53214af329b5c0df81acda37c6063dfc7fcd2dd8842473ef7f59"
 metafile = true
 
 [[files]]
@@ -575,11 +575,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
-metafile = true
-
-[[files]]
-file = "mods/jade-addons-fabric.pw.toml"
-hash = "67d0b675913c729a030e9f37763320f07c263250fc64f2ee304fcabd17c79a49"
 metafile = true
 
 [[files]]
@@ -1023,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "34cea0daa93cb791c733ff56983d8e7d1046367603c253f50ab6a7ac20862fce"
+hash = "a68b8bd7e8248b3e60df9e8c6a6356d43274751cea27600af525ac3d697dcc4f"
 metafile = true
 
 [[files]]
@@ -1123,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "110c46218b1cf12d40043cd7670a16e703c7eb2dd8cb21b5681c8635031fadad"
+hash = "d350e21ab837c28b8d2d44e850cfda5c18ce556e8f89c0e20e75a9eb1a005ab1"
 metafile = true
 
 [[files]]
@@ -1232,4 +1227,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "dbe580a1e1eb7106e0e7e751a2a157a592703f13d525d2581c1e3849f2a60069"
+hash = "83e9947bb7357c2de2a85f26ce39586eecb228423edee48c221248af889149c5"
