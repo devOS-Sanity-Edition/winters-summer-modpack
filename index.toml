@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/duely.pw.toml"
-hash = "7a6525b0c6270f7554dcafb5abf80fb9fdc5b503491559efc7d0f4cac35a12a8"
+hash = "014c0f122c5a51f1f9d87e5a610a4732ce41a0b564b86da1593b4c86d0313f6e"
 metafile = true
 
 [[files]]
@@ -395,11 +395,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "af20b5dd7a7826fd428edec189e5c657c9119bd1ddb799fa78b102b8fe6a980c"
 metafile = true
 
 [[files]]
@@ -1143,7 +1138,7 @@ metafile = true
 
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
-hash = "4bf041f7b3eb0b2d189c3e0b0b3d609c5cfdb70712ab443f9406ab0f00fb5e19"
+hash = "e0ac8fd89dca7889b7f62b5b443c68da41298df19b0474779e5751651574c0dd"
 metafile = true
 
 [[files]]
