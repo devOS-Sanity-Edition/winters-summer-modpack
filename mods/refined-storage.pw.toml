@@ -1,13 +1,13 @@
 name = "Refined Storage"
-filename = "refinedstorage-fabric-2.0.0-beta.7.jar"
+filename = "refinedstorage-fabric-2.0.0-beta.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KDvYkUg3/versions/JhEMq0WX/refinedstorage-fabric-2.0.0-beta.7.jar"
+url = "https://cdn.modrinth.com/data/KDvYkUg3/versions/vWHHL4S2/refinedstorage-fabric-2.0.0-beta.8.jar"
 hash-format = "sha512"
-hash = "2ee66a0e5c9aa6c656f7ad415c01e53211e4ee17676ba6feea1b408e2bb836281e4293fc37f50550ef6d86e3e716b01e3997fc76d5af0b69e22eb15356f77537"
+hash = "0e60263ff78dea6d16439121c45f951b70ea04cd8b63f5ce82ca0d3fd1e84c60b50de9cfa354f71b25759e538d9d1cca2de74431bcecc06774747de92432d38a"
 
 [update]
 [update.modrinth]
 mod-id = "KDvYkUg3"
-version = "JhEMq0WX"
+version = "vWHHL4S2"

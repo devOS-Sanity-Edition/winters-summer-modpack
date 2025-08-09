@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight.pw.toml"
-hash = "ff2fea595e3c3759e777179d20c3f6040d0bc0abdc3c70df49450fb7105277ea"
+hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
+hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
 
 [[files]]
@@ -869,7 +869,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "3ac94761076cee0a5563fab9420baf9b41ad878ea97336c820963c11e09f2f6c"
+hash = "3f134d5ef5ba07c86e167dbb6ee97f95f1f60d59e9459f0c8df98b18dbf6ba68"
 metafile = true
 
 [[files]]
