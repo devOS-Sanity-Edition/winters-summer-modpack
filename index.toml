@@ -858,6 +858,16 @@ hash = "0c4afd46bb04488972d0c63bd5fe34c985818c95de1c3d0cc1109f6dffc7745c"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "8f703bf2c68fb6e1e988747471a115c06ca2821375a1358a4729b517ee5e2ad6"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-trinkets-integration.pw.toml"
+hash = "07b691b3cfd87a286d6dd6a917df9482f964d350c51c9e9dc4533f6e14f618dd"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "3ac94761076cee0a5563fab9420baf9b41ad878ea97336c820963c11e09f2f6c"
 metafile = true
@@ -1119,6 +1129,11 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "d350e21ab837c28b8d2d44e850cfda5c18ce556e8f89c0e20e75a9eb1a005ab1"
+metafile = true
+
+[[files]]
+file = "mods/universal-grid.pw.toml"
+hash = "a4e5ca15100658d6ef5dca9d557fb5261c4ab2d15a280027bb0bcca1abba50c3"
 metafile = true
 
 [[files]]
