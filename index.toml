@@ -562,6 +562,11 @@ hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
 metafile = true
 
 [[files]]
+file = "mods/holodisplays.pw.toml"
+hash = "73342d86f367327de8954f50c8e9f5df521a26c56d2453a1e15f41120e1ced23"
+metafile = true
+
+[[files]]
 file = "mods/hyperleash.pw.toml"
 hash = "78cec28a833e4df14f69630ffd97a768dac9995ccf7f0e20cde38f72d646f5f0"
 metafile = true
@@ -739,6 +744,11 @@ metafile = true
 [[files]]
 file = "mods/overpoweredmending.pw.toml"
 hash = "e8363c3d566ad522cdf51d07e62a2d5ddb7fb0f34684f023668fdce4b617b848"
+metafile = true
+
+[[files]]
+file = "mods/picturesign.pw.toml"
+hash = "910973a8c30c886a71ec70b6b3b89980ba8944a0c2246de48ffdc34e37ba60ca"
 metafile = true
 
 [[files]]
@@ -1158,6 +1168,11 @@ metafile = true
 [[files]]
 file = "mods/wandering-wizardry.pw.toml"
 hash = "e0ac8fd89dca7889b7f62b5b443c68da41298df19b0474779e5751651574c0dd"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "fc44113cf6b30a86318054953321f96844630def628cf59e84b6285457048e10"
 metafile = true
 
 [[files]]
