@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "63e8deba93618647ddeacae9a45770004d5499d66495f5d036ef31c2d08ae813"
+hash = "e0f8fc062483c7064d391abd7ee4da7f77cc8a29d8419a1fd2e914c8f4c2c109"
 metafile = true
 
 [[files]]
@@ -752,6 +752,11 @@ hash = "e8363c3d566ad522cdf51d07e62a2d5ddb7fb0f34684f023668fdce4b617b848"
 metafile = true
 
 [[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "8380570c51842e496a5fd039f2bd31a42aa5ebefe4475ffabea01569b8091f05"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "4ac7c700526984d54f4b449494f027f4e9ec94d7104d660425f2ee047c580db2"
 metafile = true
@@ -808,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9bb377938c2fcfad53c925fd0d8c670496bf47239e031f604813dc3a5cf5de14"
+hash = "ea6b2156e703ca65e0cf4a7119e2c4a9ea81018860859dd949cd2832dfa3bf07"
 metafile = true
 
 [[files]]
@@ -1032,7 +1037,7 @@ metafile = true
 
 [[files]]
 file = "mods/starhud.pw.toml"
-hash = "9ef133e41ded3c54555ebd5a564742faf144a0e65f886d444e02e5ecde4a5baf"
+hash = "8ea0ef29782adc626e69eabfaec1bf29fd23db4b6b984a19f636fdc3ac72f142"
 metafile = true
 
 [[files]]
@@ -1042,7 +1047,7 @@ metafile = true
 
 [[files]]
 file = "mods/storagedrawers.pw.toml"
-hash = "a68b8bd7e8248b3e60df9e8c6a6356d43274751cea27600af525ac3d697dcc4f"
+hash = "6a58a477cc39f10e3cb7faf2ede2d58196ad00069f51c5e4c063a786f0cd1910"
 metafile = true
 
 [[files]]
