@@ -1,0 +1,15 @@
+name = "Winterisms"
+filename = "Winterisms-2.0.0+rev.f483fae.jar"
+side = "both"
+
+[download]
+url = "https://github.com/devOS-Sanity-Edition/Winterisms/releases/download/v2.0.0/Winterisms-2.0.0%2Brev.f483fae.jar"
+hash-format = "sha256"
+hash = "0e01c356702b5157ce3e442fd66f6e4a0c5c8fd14e69af1f047485fdc565b428"
+
+[update]
+[update.github]
+branch = "kt/1.21.1/summer"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "devOS-Sanity-Edition/Winterisms"
+tag = "v2.0.0"
