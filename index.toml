@@ -317,6 +317,11 @@ file = "mods/createaddition-1.5.1+fucked_up.jar"
 hash = "a13d4541411392a7b54728d6d9ddc509ac1c4b28cb3185bf0cca62574b74f07b"
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "60cbb0f3f3ac58c190df26cfdc3cb412e8b6509d6221960483b58a8ed890f0a9"
+metafile = true
+
+[[files]]
 file = "mods/creeper-multidrop.pw.toml"
 hash = "91944a7c8fc213249abd62910eebe8b5ad803436d2703df574281e54e1dbd0a9"
 metafile = true
@@ -747,11 +752,6 @@ hash = "e8363c3d566ad522cdf51d07e62a2d5ddb7fb0f34684f023668fdce4b617b848"
 metafile = true
 
 [[files]]
-file = "mods/picturesign.pw.toml"
-hash = "910973a8c30c886a71ec70b6b3b89980ba8944a0c2246de48ffdc34e37ba60ca"
-metafile = true
-
-[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "4ac7c700526984d54f4b449494f027f4e9ec94d7104d660425f2ee047c580db2"
 metafile = true
@@ -1171,8 +1171,13 @@ hash = "e0ac8fd89dca7889b7f62b5b443c68da41298df19b0474779e5751651574c0dd"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "f9784e7aeea303cdf355b7b3dfd86fecc74266ecaa52a4b5a48c6213ea12883f"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7163727a5c2a54e92838bf26bd604e378df2263f43220efd61091449f9c7ff5b"
+hash = "fc44113cf6b30a86318054953321f96844630def628cf59e84b6285457048e10"
 metafile = true
 
 [[files]]
