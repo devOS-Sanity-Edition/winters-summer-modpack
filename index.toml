@@ -299,6 +299,10 @@ hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
 
 [[files]]
+file = "mods/copycats-3.0.2+mc.1.21.1-fabric-again.jar"
+hash = "65f54105f964d57770d56153f4c4f4a1751f2a0a16f25ee8c6a36f9fc1691f75"
+
+[[files]]
 file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
 hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
 metafile = true
