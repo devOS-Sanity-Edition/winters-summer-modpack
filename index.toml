@@ -299,10 +299,6 @@ hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
 
 [[files]]
-file = "mods/copycats-3.0.2+mc.1.21.1-fabric-again.jar"
-hash = "65f54105f964d57770d56153f4c4f4a1751f2a0a16f25ee8c6a36f9fc1691f75"
-
-[[files]]
 file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
 hash = "31e7d3fe7b55ec8611950b888cfb60954514b5062ef3b88487bdbaaef5093df4"
 metafile = true
@@ -338,7 +334,7 @@ hash = "5d1d87f3d01be67251fb44f6da78fd27fe0d69030afcf5dabae1018e476d9551"
 
 [[files]]
 file = "mods/createaddition-1.5.1+fucked_up.jar"
-hash = "a13d4541411392a7b54728d6d9ddc509ac1c4b28cb3185bf0cca62574b74f07b"
+hash = "76c8226dbe4a0707c4394dca78872bedbd15d22ea7f2e664173a89375d4fd472"
 
 [[files]]
 file = "mods/creativecore.pw.toml"
@@ -1202,6 +1198,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "53e01bde67391ead9e5bcf1e86479aebd9ddb0345f871ce4b49afd655b238523"
+metafile = true
+
+[[files]]
+file = "mods/vulpine.pw.toml"
+hash = "5db80f0583ce2ebc8cb5552a8e8caa43efc119e703815a7bb91dcf31fea29108"
 metafile = true
 
 [[files]]
