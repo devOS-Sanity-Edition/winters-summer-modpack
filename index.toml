@@ -185,6 +185,11 @@ hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
 metafile = true
 
 [[files]]
+file = "mods/blast.pw.toml"
+hash = "2a664bb1c8ca299e73d60100cf1662ad8f7d1ef6ccbe549aa445ec7deea08a2a"
+metafile = true
+
+[[files]]
 file = "mods/blocky-bass.pw.toml"
 hash = "cd6dbfa58246fb0efdfc0d76cf09c81fcc862ab271d30c323b1c3a14657b254b"
 metafile = true
