@@ -205,6 +205,11 @@ hash = "a9f7be3caf1ac1e6b3dc4dd35e1db5f8598e2bdcb863b5bce7f67644e2cf68a8"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "1cb11082faa1727e8b1251a4c1fd0041ef99a9245d7adc63c9c942f59b6ef578"
+metafile = true
+
+[[files]]
 file = "mods/bounced.pw.toml"
 hash = "9d4142f9f1a2e429796ac778ab036286a8a9da287bad2bea2b5b6b1f72816a52"
 metafile = true
@@ -217,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "17b40cfda4539840d350572bc5693a5984e862ecb58c2458f33822a074381bc4"
+metafile = true
+
+[[files]]
+file = "mods/cactusfix.pw.toml"
+hash = "9036647b051383c43fc17ea0b6d77cfd136d666c5f4cdc80f3927409b380af02"
 metafile = true
 
 [[files]]
@@ -287,10 +297,6 @@ metafile = true
 file = "mods/coolrain.pw.toml"
 hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
-
-[[files]]
-file = "mods/copycats-3.0.2+mc.1.21.1-fabric-wah.jar"
-hash = "c906baef40bbbd1f91ef3e24a7df818c4d0dc79df071181556901d9f3a178730"
 
 [[files]]
 file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
@@ -821,6 +827,11 @@ hash = "dee709ea8dbbb9e75de4d53b1b9e1fd0e535abc0809c1f5aaadf783178cccf21"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "fb64786c11ef1f6d2a6ca19aa9b20ebd5515f00abc48b64b9050b2fcdb1b1cdb"
+metafile = true
+
+[[files]]
 file = "mods/pumpkin-pie-delight.pw.toml"
 hash = "393157469fcbe7c5c797433c204f4431f733a3ce26468793bc44c4cfff4b65fd"
 metafile = true
@@ -1127,6 +1138,11 @@ metafile = true
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "0fafa1fc77eb8f825bc8b5ebabdb71c4030bf9dd3e8496f6e169016198393ea1"
+metafile = true
+
+[[files]]
+file = "mods/trample-no-more.pw.toml"
+hash = "8971b0ec0a0edc2e9f72a3a24f8a3ea4aff9e3a1cf8f475e8b49f009ac05a083"
 metafile = true
 
 [[files]]
