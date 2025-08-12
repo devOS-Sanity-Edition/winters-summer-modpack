@@ -289,7 +289,7 @@ hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
 
 [[files]]
-file = "mods/copycats-3.0.2+mc.1.21.1-fabric.jar"
+file = "mods/copycats-3.0.2+mc.1.21.1-fabric-wah.jar"
 hash = "c906baef40bbbd1f91ef3e24a7df818c4d0dc79df071181556901d9f3a178730"
 
 [[files]]
