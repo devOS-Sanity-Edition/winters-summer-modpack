@@ -235,6 +235,11 @@ hash = "e1e2cc528cc5bca494254c26e849d6f8f9cb4a1305061ae9c86dcd3d48d4920b"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "1ba7fcf69deeec5536f8c9e43ee4527a5871e9e5805c1801b855e5c00b25d05a"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked-1.21.1-fabric-1.116.1.jar"
 hash = "37da1b56880de7910b899108ee1b1cc05c27f96f2f0e45af87786fcc7c27b6b1"
 
@@ -297,6 +302,10 @@ metafile = true
 file = "mods/coolrain.pw.toml"
 hash = "6b461c90adcdfd87dd45890dbf79cd682c3eed1067a981c57b9e256caebdbf11"
 metafile = true
+
+[[files]]
+file = "mods/copycats-3.0.2+mc.1.21.1-fabric-again.jar"
+hash = "65f54105f964d57770d56153f4c4f4a1751f2a0a16f25ee8c6a36f9fc1691f75"
 
 [[files]]
 file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
@@ -1222,7 +1231,7 @@ metafile = true
 
 [[files]]
 file = "mods/winterisms.pw.toml"
-hash = "017f11802e463cf1209aaade8671c59ec641d3c5edef95b07a381ad5b6759918"
+hash = "2dc1bf37af93d7f50896e350f2b46190a5d51f0fb2fab821c6df952e4e3bf47b"
 metafile = true
 
 [[files]]
