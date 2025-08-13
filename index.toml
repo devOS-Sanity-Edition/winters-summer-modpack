@@ -1200,6 +1200,11 @@ hash = "b98d41800409e1b599c0de30295e871cc38ccd815ce0aa1fff29d96a120b1121"
 metafile = true
 
 [[files]]
+file = "mods/village-healthcare.pw.toml"
+hash = "b9d7fc77afa3e7f90e3573a3655b143a473404142b5e3e720a7bb908af43468c"
+metafile = true
+
+[[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "33a9724220cb538b26c68016b40cb1e2605faa90d3901cb2efbdaf18d61df41b"
 metafile = true
