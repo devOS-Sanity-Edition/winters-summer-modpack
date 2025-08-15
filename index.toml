@@ -691,6 +691,11 @@ hash = "175ad5fb2b745bc81844daf0f994f1bcb3180b0929204cbd31417ad9a5b82645"
 metafile = true
 
 [[files]]
+file = "mods/mekanismworldgen.pw.toml"
+hash = "cc6a3dab2c345e41a09bc363fb6106d3686bcdc30e96f67eaf1b408362b145e1"
+metafile = true
+
+[[files]]
 file = "mods/midnightcontrols.pw.toml"
 hash = "1c142b3c08504ed1606f340a576a7f1dda6c0d550ac9cac197ef499e9d5354af"
 metafile = true

@@ -1,0 +1,15 @@
+name = "MekanismWorldGen"
+filename = "MekanismWorldGen-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bomb-Shelter/MekanismWorldGen/releases/download/1.0.0/MekanismWorldGen-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "e2711283359b07f85897610dbbcda591aebc04359e4d2944813163745cda30c7"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Bomb-Shelter/MekanismWorldGen"
+tag = "1.0.0"
