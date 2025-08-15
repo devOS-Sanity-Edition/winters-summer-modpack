@@ -1,15 +1,15 @@
 name = "Wandering-Wizardry"
-filename = "wwizardry-1.2.0+alpha.4+mc.1.21.1-fabric.jar"
+filename = "wwizardry-1.2.0+alpha.5+mc.1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Sweet-Berry-Collective/Wandering-Wizardry/releases/download/1.2.0%2Balpha.4/wwizardry-1.2.0%2Balpha.4%2Bmc.1.21.1-fabric.jar"
+url = "https://github.com/Sweet-Berry-Collective/Wandering-Wizardry/releases/download/1.2.0%2Balpha.5/wwizardry-1.2.0%2Balpha.5%2Bmc.1.21.1-fabric.jar"
 hash-format = "sha256"
-hash = "3bc3672affd8a478f281bc8c336a5e91382dec206410c2e476fd55788fefafcc"
+hash = "9ff938834f6c89166158e3c728439ea47758c719b6dac57033e0a04b5bc46d2e"
 
 [update]
 [update.github]
 branch = "1.21"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "Sweet-Berry-Collective/Wandering-Wizardry"
-tag = "1.2.0+alpha.4"
+tag = "1.2.0+alpha.5"
