@@ -1236,7 +1236,7 @@ metafile = true
 
 [[files]]
 file = "mods/winterisms.pw.toml"
-hash = "2dc1bf37af93d7f50896e350f2b46190a5d51f0fb2fab821c6df952e4e3bf47b"
+hash = "8e04c97f05915d5c3ddea228ac9437edef7ed447f043dd1c6468992649e0aad8"
 metafile = true
 
 [[files]]
