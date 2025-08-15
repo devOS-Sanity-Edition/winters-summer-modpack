@@ -97,10 +97,6 @@ file = "config/yosbr/options.txt"
 hash = "bee19c690f9ef907eddc01921e8a46e09995796440dd28a93de37387ba6cb11d"
 
 [[files]]
-file = "mods/MekanismWorldGen-1.0-SNAPSHOT.jar"
-hash = "e2711283359b07f85897610dbbcda591aebc04359e4d2944813163745cda30c7"
-
-[[files]]
 file = "mods/Powah-5.1.0.jar"
 hash = "9a1c191d41fde415eaa877822d74772f8cd6964ec2475ad072e0991c11f6267c"
 
