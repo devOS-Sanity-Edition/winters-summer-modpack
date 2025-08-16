@@ -14,3 +14,6 @@
 
 # Exclude LICENSE
 /LICENSE
+
+# Exclude GitHub shenanigans
+/.github/
