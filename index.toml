@@ -562,6 +562,11 @@ hash = "9c74cc6556161393d1dd734b483a6f212a7032e97fad8f40a6e2834d0ab1baba"
 metafile = true
 
 [[files]]
+file = "mods/frostbytes-skip-server-movement-check.pw.toml"
+hash = "c1984329d0f4f69cec92b2d3a80b88092642db35c338500579516a534998b915"
+metafile = true
+
+[[files]]
 file = "mods/frozenlib.pw.toml"
 hash = "2a146b9ca7e942b55182b4849097ae2c4c2ef603c200442600646d92811563da"
 metafile = true
