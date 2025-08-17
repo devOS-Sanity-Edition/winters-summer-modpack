@@ -1077,7 +1077,7 @@ metafile = true
 
 [[files]]
 file = "mods/starhud.pw.toml"
-hash = "8ea0ef29782adc626e69eabfaec1bf29fd23db4b6b984a19f636fdc3ac72f142"
+hash = "702dbbf0abd3504e5414723658129d8d414cd9262817a01870906ce3cc115384"
 metafile = true
 
 [[files]]
