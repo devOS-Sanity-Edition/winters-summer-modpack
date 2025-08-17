@@ -240,6 +240,11 @@ file = "mods/cc-tweaked-1.21.1-fabric-1.116.1.jar"
 hash = "37da1b56880de7910b899108ee1b1cc05c27f96f2f0e45af87786fcc7c27b6b1"
 
 [[files]]
+file = "mods/ccemail.pw.toml"
+hash = "e1be21f96e20a2bbffe5861eaf4853eb36e588181255de25476dba238dc35f17"
+metafile = true
+
+[[files]]
 file = "mods/centered-crosshair.pw.toml"
 hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
 metafile = true

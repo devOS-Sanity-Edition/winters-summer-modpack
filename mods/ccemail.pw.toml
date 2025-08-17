@@ -1,0 +1,15 @@
+name = "ccemail"
+filename = "ccemail-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://github.com/IMS212/ccemail/releases/download/b1/ccemail-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "ece6c162d906827803a97485c5b31e2fc942a028fe96cda454f3c75ae036a135"
+
+[update]
+[update.github]
+branch = "master"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "IMS212/ccemail"
+tag = "b1"
