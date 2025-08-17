@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "3f134d5ef5ba07c86e167dbb6ee97f95f1f60d59e9459f0c8df98b18dbf6ba68"
+hash = "62e57d34d0d6c46a6dffa7f434eb211f0562a439204d45abcfa37b910bc767b4"
 metafile = true
 
 [[files]]
@@ -1173,6 +1173,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "5a0280ac06f0ee35cfd7e5234e9d265842dbf91746e2b344e9ec66f1d1e4911a"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "ac17bd479ff808f1820799d43275a4e71586a8848d4b3ea326d83df6332c9469"
 metafile = true
 
 [[files]]
