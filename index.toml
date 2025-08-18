@@ -651,6 +651,11 @@ hash = "184c5b7f76a47f339f1dcfb8a77e21b4fe0949a0c4a9f3e18ab3ad80af336cb5"
 metafile = true
 
 [[files]]
+file = "mods/kibe.pw.toml"
+hash = "6dea0a8d9b0aee4d6537f3db91ec7e01c031b2ec43512841090b7acdcc25ebdc"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true

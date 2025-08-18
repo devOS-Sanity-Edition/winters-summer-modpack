@@ -1,0 +1,15 @@
+name = "kibe"
+filename = "kibe-2.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Bomb-Shelter/kibe/releases/download/2.0%2B1.21/kibe-2.0%2B1.21.jar"
+hash-format = "sha256"
+hash = "a3009eed9aaac088b19b526f4d1f0689c48d5ae1850a3aea5ccda8a5e6a2436f"
+
+[update]
+[update.github]
+branch = "1.21"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Bomb-Shelter/kibe"
+tag = "2.0+1.21"
