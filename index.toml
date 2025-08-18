@@ -701,11 +701,6 @@ hash = "bbad452ecc0339627c8cca96a2d5872cff7096bc1dd50a9b6dd1309f6c496b1f"
 metafile = true
 
 [[files]]
-file = "mods/magnum-torch.pw.toml"
-hash = "175ad5fb2b745bc81844daf0f994f1bcb3180b0929204cbd31417ad9a5b82645"
-metafile = true
-
-[[files]]
 file = "mods/mekanismworldgen.pw.toml"
 hash = "cc6a3dab2c345e41a09bc363fb6106d3686bcdc30e96f67eaf1b408362b145e1"
 metafile = true
@@ -1217,11 +1212,6 @@ metafile = true
 [[files]]
 file = "mods/universal-grid.pw.toml"
 hash = "a4e5ca15100658d6ef5dca9d557fb5261c4ab2d15a280027bb0bcca1abba50c3"
-metafile = true
-
-[[files]]
-file = "mods/useful-slime.pw.toml"
-hash = "b98d41800409e1b599c0de30295e871cc38ccd815ce0aa1fff29d96a120b1121"
 metafile = true
 
 [[files]]
