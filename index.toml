@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/canary.json"
 hash = "d78ca66f6dd9e1aa0329fab4f97961d8f2f6a96b3206758ae8218f8948182fd6"
 
@@ -306,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats-3.0.2+mc.1.21.1-fabric.jar"
-hash = "2d9bf41686d7dc92968abff6521b823a11a56334efd37026d3f8e90af0822b66"
+hash = "5eda128c390b213f45d0792c00d00cdc3002399b7715cd73ecd7cf6202814ff2"
 
 [[files]]
 file = "mods/cosmetic-armor-revitalized-fabric.pw.toml"
@@ -340,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fucked-up-1.21.1-6.0.6+98eafb774-modified.jar"
-hash = "03cefef4db962ea9ed5659ff2d2092d747c8bacbad1b1a12a0f1247c82d6b22d"
+hash = "ad9a5510d9b71e8999e90a7a960bf9c08c6d52a09166b5fc443aabbe46c70e16"
 
 [[files]]
 file = "mods/createaddition-1.5.1+fucked_up.jar"
