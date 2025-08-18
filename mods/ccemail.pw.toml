@@ -1,15 +1,15 @@
 name = "ccemail"
-filename = "ccemail-1.0.2.jar"
+filename = "ccemail-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://github.com/IMS212/ccemail/releases/download/b3/ccemail-1.0.2.jar"
+url = "https://github.com/IMS212/ccemail/releases/download/b4/ccemail-1.0.3.jar"
 hash-format = "sha256"
-hash = "5cdefead2673b064bcc1a03e3633244a5bff9a144048894aa4f8b69778aa5d10"
+hash = "eb876f9be11f5253140e82c82615a8c3e6675bdd02c371a649cc4018fcd18ff0"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "IMS212/ccemail"
-tag = "b3"
+tag = "b4"

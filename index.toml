@@ -245,7 +245,7 @@ hash = "37da1b56880de7910b899108ee1b1cc05c27f96f2f0e45af87786fcc7c27b6b1"
 
 [[files]]
 file = "mods/ccemail.pw.toml"
-hash = "c823604cf53bba8ce41b1357327f84acb66b87bd4dfda3e33a018cbdbe320749"
+hash = "e9fd3c960c9b2b8f2187f8f75bcc590c9d9a9f15566380f92a73e68c17d5575d"
 metafile = true
 
 [[files]]
@@ -756,6 +756,11 @@ hash = "0b07fb47dbde7120103a707336d555f1952eaddc22db769bedbba0cfd9300aa1"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "f53b91397b8a969e843af8772db448ab1c9bc556233a3b26266c52cfa77950fe"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "7672fb368275a6433f2d012e74e8650a0d2405626f68d71332a769b02d9f3003"
 metafile = true
@@ -1252,6 +1257,11 @@ metafile = true
 [[files]]
 file = "mods/winterisms.pw.toml"
 hash = "a690d2d2444593912c35cc3146d59d25826561c86eb33ec1e6fcea3b23cabbc3"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "ea8c8329dc1b67503563940d8fcdf90c028b1d2f7b4a16cba8b7272ed56f2d8a"
 metafile = true
 
 [[files]]
