@@ -264,6 +264,11 @@ hash = "c390e2533e854690085d2a455d192e22817532f8e1400f498f4312ee5dfdda50"
 metafile = true
 
 [[files]]
+file = "mods/click-opener-continued.pw.toml"
+hash = "27969bd103c98bd97e6e78dae0304f20fddcbec8f8983bf78502ed98996cb406"
+metafile = true
+
+[[files]]
 file = "mods/clifftree.pw.toml"
 hash = "c7ceaae4e41a455b1adc72a1d1c327a02ce4d608b9c974fae2b80198ec8b19c6"
 metafile = true

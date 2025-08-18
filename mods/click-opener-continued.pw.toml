@@ -1,0 +1,13 @@
+name = "Click Opener Continued!"
+filename = "clickopener-1.0.0+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/APLGIOku/versions/jadA1Di4/clickopener-1.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "d72becad0890eb404580dff35179c7192d350a6770b977de9343862855418f3f5f982aeefd3b0d75116101e4d8bb0d4f588b8237af6679fc91abd88d3f61ca71"
+
+[update]
+[update.modrinth]
+mod-id = "APLGIOku"
+version = "jadA1Di4"
