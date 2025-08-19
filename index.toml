@@ -516,6 +516,11 @@ hash = "b2d76635617292a5c441f883b7bd98ca68fda2806bb1b1be068e2d8bdf732243"
 metafile = true
 
 [[files]]
+file = "mods/extradisks-fabric.pw.toml"
+hash = "7f44e4185d7f0a7520f00e661499e2939828c3523cc464a87cbcb864d97bfc10"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "b3811242f9230b57ec349147921309a05e17b1d9866cb5197926495d8f8e9400"
 metafile = true
@@ -968,11 +973,6 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "432bd453b982cca6e0f96ab7fb3ca9ccc929ff879d20663266dcafe389660e37"
-metafile = true
-
-[[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "a0229ecd63d478b8d019318a58317855c7e862cce95e78a60e21c01317cc329e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+name = "ExtraDisks-Fabric"
+filename = "extradisks-1.21.1-4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/IMS212/ExtraDisks-Fabric/releases/download/b1/extradisks-1.21.1-4.0.jar"
+hash-format = "sha256"
+hash = "5576718652f737cbea36e9c617b60b88131dba15ff156dc5f316bc3cf39832b7"
+
+[update]
+[update.github]
+branch = "1.21.x"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "IMS212/ExtraDisks-Fabric"
+tag = "b1"
