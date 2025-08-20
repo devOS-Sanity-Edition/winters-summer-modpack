@@ -356,6 +356,10 @@ file = "mods/createaddition-1.5.1+fucked_up.jar"
 hash = "76c8226dbe4a0707c4394dca78872bedbd15d22ea7f2e664173a89375d4fd472"
 
 [[files]]
+file = "mods/createrailwaysnavigator-fabric-1.21.1-beta-0.8.4.jar"
+hash = "f36ceafe2c7d0b80b37cb9ac1a12585baf60dc092fd76ae81d4fcae98b152370"
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "60cbb0f3f3ac58c190df26cfdc3cb412e8b6509d6221960483b58a8ed890f0a9"
 metafile = true
