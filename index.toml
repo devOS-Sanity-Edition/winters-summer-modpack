@@ -245,7 +245,7 @@ hash = "37da1b56880de7910b899108ee1b1cc05c27f96f2f0e45af87786fcc7c27b6b1"
 
 [[files]]
 file = "mods/ccemail.pw.toml"
-hash = "7c8ae7cae4d92e8537b876b73831440943e26e729866bab0eec2b94f17fa9b58"
+hash = "efec92fcc04118172d2791885a79fef25ea20b6d0e3b8434cdcbe9bd931a6e56"
 metafile = true
 
 [[files]]
