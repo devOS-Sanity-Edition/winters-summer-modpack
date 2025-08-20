@@ -1,13 +1,13 @@
 name = "StarHUD"
-filename = "starhud-1.21.1-2.3.0.jar"
+filename = "starhud-1.21.1-2.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/40SFPJ0u/versions/Lgs5bLD1/starhud-1.21.1-2.3.0.jar"
+url = "https://cdn.modrinth.com/data/40SFPJ0u/versions/GYVfps1j/starhud-1.21.1-2.3.1.jar"
 hash-format = "sha512"
-hash = "e8153be2465c5b25d02e2d4fbc3ff967d6d0101fc11b58a57b9f1c0ea6e3b4cc67a4919c55c20728b8ce1897c22ff062ce29ec56376b9c9add974ccad427b8bd"
+hash = "6471cc15663a0d4c8c7165ede0ac9c79c2a9375c0cc026cbffabc8985ddcac52605bc005fae481cae5609363a348e9d4bf440f3d7449f2d40f4a950bc49b098b"
 
 [update]
 [update.modrinth]
 mod-id = "40SFPJ0u"
-version = "Lgs5bLD1"
+version = "GYVfps1j"

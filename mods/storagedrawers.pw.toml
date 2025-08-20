@@ -1,13 +1,13 @@
 name = "Storage Drawers"
-filename = "Storage Drawers-fabric-1.21.1-13.9.0.jar"
+filename = "StorageDrawers-fabric-1.21.1-13.10.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/guitPqEi/versions/Xke4OrUb/Storage%20Drawers-fabric-1.21.1-13.9.0.jar"
+url = "https://cdn.modrinth.com/data/guitPqEi/versions/DnVow27A/StorageDrawers-fabric-1.21.1-13.10.0.jar"
 hash-format = "sha512"
-hash = "d0107d1f31c514b772f5d2a5d8bb7de4fa13930d16a2d7aef05b00371f3f93b1f71b1c695ff2bf407740c4f7ee2b04076055133df8dfdf0a69b01650f889d8d4"
+hash = "899767e5dec365fa96fe65b3619de991f6f380d90896d13f2027061edb2d4c45496a9a08556c0bb9c5b7b29b8b4125df28324961ccc1a205200cc8366548fbfe"
 
 [update]
 [update.modrinth]
 mod-id = "guitPqEi"
-version = "Xke4OrUb"
+version = "DnVow27A"
