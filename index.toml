@@ -25,6 +25,10 @@ file = "config/customwindowtitle/icon.png"
 hash = "b0079cebac576d90000f09106d3a587876ba9d62e8bd20b755a11930d1860308"
 
 [[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "22d6678a60c101e625f1eeea6179f08e9063bf4b0523372482956d0c283c5964"
+
+[[files]]
 file = "config/polydex.json"
 hash = "2a9fa4c5b60e5918349ef56c678b27f1349241c4e4ad14f9f449eaa14af4eedc"
 
@@ -182,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/blahaj_fabric.pw.toml"
 hash = "6ad56a9580061e6d287ba30806d62d5452caaff8cb0fb655748fbd0599017cc2"
-metafile = true
-
-[[files]]
-file = "mods/blast.pw.toml"
-hash = "2a664bb1c8ca299e73d60100cf1662ad8f7d1ef6ccbe549aa445ec7deea08a2a"
 metafile = true
 
 [[files]]
@@ -1275,7 +1274,7 @@ metafile = true
 
 [[files]]
 file = "mods/winterisms.pw.toml"
-hash = "a690d2d2444593912c35cc3146d59d25826561c86eb33ec1e6fcea3b23cabbc3"
+hash = "bcc7e7f0f1a925e16d41c287a6c43c75fb5d01fbd37cef0c8b6e3ea0256d4dcd"
 metafile = true
 
 [[files]]
@@ -1364,4 +1363,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "83e9947bb7357c2de2a85f26ce39586eecb228423edee48c221248af889149c5"
+hash = "ec18b7c47083a3bf2ec83cbf17a0214ac6b1e5ed74601d3a84eed15444c65944"
