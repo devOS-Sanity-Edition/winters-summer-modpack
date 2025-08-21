@@ -116,20 +116,25 @@ description = "Camera tweaks for elytra and swimming."
 side = "client"
 [[flavor_groups.roll.choices]]
 id = "rollnone"
-name = "None"
-[[flavor_groups.roll.choices]]
-id = "do-a-barrel-roll"
-name = "Do a Barrel Roll"
-description = "Changes elytra flight to be more fun and semi-realistic. It achieves this by redesigning movement with a completely unlocked camera orientation in mind, allowing for full pitch, yaw and roll control in flight. [WARNING FOR PEOPLE WHO GET MOTION SICKNESS EASILY]"
+name = "DABR Off"
+description = "Do a Barrel Roll is installed but not enabled. No matter what flavor, you will need to enable it manually."
 [[flavor_groups.roll.choices]]
 id = "rolling-down-in-the-deep"
-name = "Rolling Down in the Deep / Both"
-description = "An addon to Do A Barrel Roll to extend its features to swimming and diving."
+name = "Rolling Down in the Deep"
+description = "Enables Do a Barrel Roll but in water. Note: You will need to enable Do a Barrel Roll manually."
+[[flavor_groups.roll.choices]]
+id = "flightassistant"
+name = "Flight Assistant"
+description = "Adds MSFS sounds and airplane assists / autopilot to elytra flight. Does not require Do a Barrel Roll"
+[[flavor_groups.roll.choices]]
+id = "all_roll"
+name = "All"
+description = "Enables Rolling Down in the Deep and Flight Assistant. Note: You will need to enable Do a Barrel Roll manually."
 
-[metafile.do-a-barrel-roll]
-flavors = ["do-a-barrel-roll", "rolling-down-in-the-deep"]
 [metafile.rolling-down-in-the-deep]
-flavors = "rolling-down-in-the-deep"
+flavors = ["rolling-down-in-the-deep", "all_roll"]
+[metafile.flightassistant]
+flavors = ["flightassistant", "all_roll"]
 
 
 [flavor_groups.ui]

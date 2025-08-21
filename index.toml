@@ -560,6 +560,11 @@ hash = "48c8832ff821c01c89a2f71b8ae9ee4aeecf46c1f3e6120c2f2523cf51187e27"
 metafile = true
 
 [[files]]
+file = "mods/flightassistant.pw.toml"
+hash = "2c15a3e1d35f0639b8697cda0954acaa2f56449a3f594584fc0907a36b415338"
+metafile = true
+
+[[files]]
 file = "mods/flw-vanillin.pw.toml"
 hash = "d0432b19479e39a125d5fa038766f21f72ae5ded133c576fa3c9235f583e4ed7"
 metafile = true
@@ -1156,6 +1161,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "e35593590fe988653baebae4638f6c93b5d822351274955cc1288b34fe5429fe"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "ee30e051d0e4a00febc4b15d12a83bff78d6a5b059ddf0281208711a6c137762"
 metafile = true
 
 [[files]]
