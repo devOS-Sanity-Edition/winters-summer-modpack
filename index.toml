@@ -347,8 +347,8 @@ hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
 metafile = true
 
 [[files]]
-file = "mods/create-fucked-up-1.21.1-6.0.6+98eafb774-modified.jar"
-hash = "ad9a5510d9b71e8999e90a7a960bf9c08c6d52a09166b5fc443aabbe46c70e16"
+file = "mods/create-fucked-up-1.21.1-6.0.6+9057ca93a-modified.jar"
+hash = "c836e16a92d95a220d6e82fe84e32286371c24603b0c6a480972fc15fca4c114"
 
 [[files]]
 file = "mods/createaddition-1.5.1+fucked_up.jar"
