@@ -347,8 +347,8 @@ hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
 metafile = true
 
 [[files]]
-file = "mods/create-fucked-up-1.21.1-6.0.6+98eafb774-modified.jar"
-hash = "ad9a5510d9b71e8999e90a7a960bf9c08c6d52a09166b5fc443aabbe46c70e16"
+file = "mods/create-fucked-up-1.21.1-6.0.6+9057ca93a-modified.jar"
+hash = "8b5a5c2cc38c34e31a697fbaed875f92be080bbf633afd179a07abbc1be0240a"
 
 [[files]]
 file = "mods/createaddition-1.5.1+fucked_up.jar"
@@ -670,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.pw.toml"
-hash = "6dea0a8d9b0aee4d6537f3db91ec7e01c031b2ec43512841090b7acdcc25ebdc"
+hash = "bb7ebac98d0a27390e80195aa4f0a3f0cc96010aa411f0cdcc07be9401a8ea8b"
 metafile = true
 
 [[files]]
@@ -755,7 +755,7 @@ metafile = true
 
 [[files]]
 file = "mods/moue-milkshakes.pw.toml"
-hash = "0bbd768ffd08ef2110010ffe20ff71b0d23d67c16ff5fc0159c4ad6e6b02326a"
+hash = "33c5a2b0427effbeaa3cf6a33b03b16f92e6fca398ce093723f81535caec2f07"
 metafile = true
 
 [[files]]
@@ -949,11 +949,6 @@ hash = "0c4afd46bb04488972d0c63bd5fe34c985818c95de1c3d0cc1109f6dffc7745c"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage-quartz-arsenal.pw.toml"
-hash = "8f703bf2c68fb6e1e988747471a115c06ca2821375a1358a4729b517ee5e2ad6"
-metafile = true
-
-[[files]]
 file = "mods/refined-storage-trinkets-integration.pw.toml"
 hash = "07b691b3cfd87a286d6dd6a917df9482f964d350c51c9e9dc4533f6e14f618dd"
 metafile = true
@@ -962,6 +957,10 @@ metafile = true
 file = "mods/refined-storage.pw.toml"
 hash = "e40f35814b8b5c4b060f3d189bc70b5a6bfc211d3bd65f4ba6f0ff9d47592379"
 metafile = true
+
+[[files]]
+file = "mods/refinedstorage-quartz-arsenal-fabric-1.0.5.jar"
+hash = "9ef64a3905497bdbf175208a188067272955133fad33ecf26edae4dc4ec86aee"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
