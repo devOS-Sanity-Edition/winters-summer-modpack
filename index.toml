@@ -949,6 +949,11 @@ hash = "0c4afd46bb04488972d0c63bd5fe34c985818c95de1c3d0cc1109f6dffc7745c"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "7455d00fa8cf0f0b6d3d8550820bd839ec418b738d6ef4ff92e0d8c753c8ed9d"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-trinkets-integration.pw.toml"
 hash = "07b691b3cfd87a286d6dd6a917df9482f964d350c51c9e9dc4533f6e14f618dd"
 metafile = true
