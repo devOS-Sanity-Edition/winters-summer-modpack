@@ -144,9 +144,8 @@ hash = "e0f8fc062483c7064d391abd7ee4da7f77cc8a29d8419a1fd2e914c8f4c2c109"
 metafile = true
 
 [[files]]
-file = "mods/athena-ctm.pw.toml"
-hash = "93f989575eec26f333d4253f1af961983ba4d5179e1c3237b643836b40614a43"
-metafile = true
+file = "mods/athena-fabric-1.21-4.0.3.jar"
+hash = "e284343d85421ce89d168663dd32cbac3cb609d69d7ddc1e9d29c5db1cc03f5f"
 
 [[files]]
 file = "mods/auto-sprint-fix.pw.toml"
@@ -962,10 +961,6 @@ metafile = true
 file = "mods/refined-storage.pw.toml"
 hash = "e40f35814b8b5c4b060f3d189bc70b5a6bfc211d3bd65f4ba6f0ff9d47592379"
 metafile = true
-
-[[files]]
-file = "mods/refinedstorage-quartz-arsenal-fabric-1.0.5.jar"
-hash = "9ef64a3905497bdbf175208a188067272955133fad33ecf26edae4dc4ec86aee"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
