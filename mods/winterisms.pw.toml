@@ -1,15 +1,15 @@
 name = "Winterisms"
-filename = "Winterisms-3.0.0+rev.326a08c.jar"
+filename = "Winterisms-2.1.1+build.74.jar"
 side = "both"
 
 [download]
-url = "https://github.com/devOS-Sanity-Edition/Winterisms/releases/download/v3.0.0/Winterisms-3.0.0%2Brev.326a08c.jar"
+url = "https://github.com/devOS-Sanity-Edition/Winterisms/releases/download/v2.1.1/Winterisms-2.1.1%2Bbuild.74.jar"
 hash-format = "sha256"
-hash = "c11ad9b881516c8a98cf3ca29ce6afcb02fbad7158678c94d9ace460cb8da95a"
+hash = "372b1aa0ab728d85c41405b00e1bc24fe6af6492532d5bb4fe21847d053a8b39"
 
 [update]
 [update.github]
 branch = "kt/1.21.1/summer"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "devOS-Sanity-Edition/Winterisms"
-tag = "v3.0.0"
+tag = "v2.1.1"
