@@ -13,7 +13,7 @@ file = "config/craftpresence.json"
 hash = "beec7ba175b96c8ad5df873505d3921327161042cf86f4e833a23ca4c623f8b8"
 
 [[files]]
-file = "config/crash-pipe/crash.wav"
+file = "config/crash.wav"
 hash = "f1d08814c308d1cda973f9c70e99fccc9b227e430c59df3f1049451f1a486086"
 
 [[files]]
@@ -336,11 +336,6 @@ hash = "25dcc66de1fd3e6950393d982c78f0e8ab3966bfa7201c5d976f72f8b49c1cb1"
 metafile = true
 
 [[files]]
-file = "mods/crash-pipe.pw.toml"
-hash = "98e1ae35f3dbace1a81f621b7cece54772a200d846dc29d30927a9845f23d604"
-metafile = true
-
-[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
 metafile = true
@@ -365,11 +360,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-multidrop.pw.toml"
 hash = "91944a7c8fc213249abd62910eebe8b5ad803436d2703df574281e54e1dbd0a9"
-metafile = true
-
-[[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
@@ -1288,7 +1278,7 @@ metafile = true
 
 [[files]]
 file = "mods/winterisms.pw.toml"
-hash = "bcc7e7f0f1a925e16d41c287a6c43c75fb5d01fbd37cef0c8b6e3ea0256d4dcd"
+hash = "7546884ece2de7097e86889250a10315d459e6461b3e2aedc26fbf132364ffcf"
 metafile = true
 
 [[files]]
