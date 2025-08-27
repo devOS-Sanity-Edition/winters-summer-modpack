@@ -208,6 +208,11 @@ hash = "1cb11082faa1727e8b1251a4c1fd0041ef99a9245d7adc63c9c942f59b6ef578"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "7e8dfd21715aba55e284e848982a8434c730fcebab027058c7558b523597c467"
+metafile = true
+
+[[files]]
 file = "mods/bounced.pw.toml"
 hash = "9d4142f9f1a2e429796ac778ab036286a8a9da287bad2bea2b5b6b1f72816a52"
 metafile = true
@@ -341,8 +346,8 @@ hash = "7647a4128a858a8cc6c6fcda628357d26edbecce7a58796b4091bff64a1e5793"
 metafile = true
 
 [[files]]
-file = "mods/create-fucked-up-1.21.1-6.0.6+9057ca93a-modified.jar"
-hash = "8b5a5c2cc38c34e31a697fbaed875f92be080bbf633afd179a07abbc1be0240a"
+file = "mods/create-fucked-up-1.21.1-6.0.6+fa7bb29.jar"
+hash = "b079e5e7c9401313cfc8f0b98a636e1f1590cac1098d59bbe270795e3255a38e"
 
 [[files]]
 file = "mods/createaddition-1.5.1+fucked_up.jar"
