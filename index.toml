@@ -213,6 +213,11 @@ hash = "7e8dfd21715aba55e284e848982a8434c730fcebab027058c7558b523597c467"
 metafile = true
 
 [[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "7b5117641ed64940005d73a281d598be655aebcdc4356a05b25392f1183c773f"
+metafile = true
+
+[[files]]
 file = "mods/bounced.pw.toml"
 hash = "9d4142f9f1a2e429796ac778ab036286a8a9da287bad2bea2b5b6b1f72816a52"
 metafile = true
