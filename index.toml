@@ -148,11 +148,6 @@ file = "mods/athena-fabric-1.21-4.0.3.jar"
 hash = "e284343d85421ce89d168663dd32cbac3cb609d69d7ddc1e9d29c5db1cc03f5f"
 
 [[files]]
-file = "mods/auroraslanterns.pw.toml"
-hash = "40cf3549cc85a1a82e04edf00943661ac4c1902dafa5acbcc54ae3fd8b619736"
-metafile = true
-
-[[files]]
 file = "mods/auto-sprint-fix.pw.toml"
 hash = "93624c1e04b505cac45e5b04cf9b02537d01a25eba040e1c58486990c65f92b1"
 metafile = true
