@@ -1,13 +1,13 @@
 name = "Multi Key Bindings"
-filename = "multi-key-bindings-1.0.2+1.21.1.jar"
+filename = "multi-key-bindings-1.1.0+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2VF6JEnL/versions/2Rx3yqaE/multi-key-bindings-1.0.2%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/2VF6JEnL/versions/OUpjA9TM/multi-key-bindings-1.1.0%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "48f9d6a68f174291ce649c255b172e5311510e32ce4706a6ce1e102c88e10135b424e79a324dd9df30db6cb155ee4dfab46d366f7e3311a8f3aa8a75a5fd37ed"
+hash = "0cc95a9fb52436f4bfcef72cf4d2e2b58d5ea3cdd922c4985fcc06ee7c7a77efda2ee8a0bdd73c46ac6913d43730d650a9357898b711135c0a8ed361e00a584a"
 
 [update]
 [update.modrinth]
 mod-id = "2VF6JEnL"
-version = "2Rx3yqaE"
+version = "OUpjA9TM"
